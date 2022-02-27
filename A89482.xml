@@ -1,0 +1,863 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Temporis Angustiæ Stollen houres recreations. Being meditations fitted according to the variety of objects. By Tho. Manley, jun. gent. and student, anno. ætatis 21mo.</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89482</idno>
+            <idno type="STC">Wing M449</idno>
+            <idno type="STC">Thomason E1374_1</idno>
+            <idno type="STC">ESTC R209219</idno>
+            <idno type="EEBO-CITATION">99868109</idno>
+            <idno type="PROQUEST">99868109</idno>
+            <idno type="VID">169871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169871)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1374[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Temporis Angustiæ Stollen houres recreations. Being meditations fitted according to the variety of objects. By Tho. Manley, jun. gent. and student, anno. ætatis 21mo.</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <extent>[4], 127, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Stephenson, at the signe of the Sun, on Ludgate-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 17".</note>
+                  <note>Running title reads: Meditations.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169871:1" rendition="simple:additions"/>
+            <p>
+               <hi>Temporis Anguſtiae:</hi> Stollen Houres Recreations.</p>
+            <p>BEING Meditations fitted according to the variety of Objects.</p>
+            <q>
+               <bibl>
+                  <hi>Martial. lib.</hi> 8. <hi>Epig.</hi> 2.</bibl> Tune potes dulces ingrate relinquere nugas, Dic mihi, quid melius deſidioſus agas.</q>
+            <q>Sat plenè, ſi ſat benè.</q>
+            <p>BY THO. MANLEY, Jun. Gent. And Student, <hi>Anno Aetatis</hi> 21<hi rend="sup">mo.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Stephenſon,</hi> At the Signe of the Sun, on Ludgate-hill, 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169871:2"/>
+            <pb facs="tcp:169871:2"/>
+            <head>TO THE Moſt vertuous, and truly wor<g ref="char:EOLhyphen"/>thy Gentlewoman, M<hi rend="sup">rs.</hi> 
+               <hi>A. M.</hi>
+            </head>
+            <head type="sub">
+               <hi>Thomas Manley</hi> wiſheth all the bleſ<g ref="char:EOLhyphen"/>ſings of this life, and that which is to come.</head>
+            <opener>
+               <salute>Deare Miſtris,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ut of that ſpare time, ſtollen from the houres of my more ſerious ſtudies, I have here from variety of objects, extracted and rough-drawne a few light Meditations, the extravagan<g ref="char:EOLhyphen"/>cies of a lighter braine, which I have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſumed to dedicate to your Name, hoping that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om it, they will gaine both weight and credit: A pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nt, I confeſſe, too meane for ſo great vertue, yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſſured confidence of your goodneſſe, that you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill not ſo much looke at the meanneſſe of the gift, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the good will of the giver, and accept it, becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> comes from a friend, was the maine cauſe of my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oldneſſe, which if you pleaſe to pardon, adding <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithall a grant of my deſire, acceptance, I ſhall not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nly acknowledge my ſelfe to be bound to you by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tricteſt tye of friendſhip, but ſhall be bound to ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nowledge my ſelfe</p>
+            <closer>
+               <salute>M<hi rend="sup">rs.</hi>
+               </salute>
+               <signed>
+                  <hi>Your moſt affectionate friend,</hi> Tho. Manley. <hi>Jun.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169871:3"/>
+            <head>
+               <hi>TO THE</hi> Friendly READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O make a tedious Preface to our enſuing ſhort diſcourſes, ſeemes to me as vaine and unneceſſarie<g ref="char:punc">▪</g> as was his worke, who made the gates to his Citie larger then the Citie it ſelfe; all I ſhall ſay to thee, is this, I deſire thee with ſinceritie to reader, and without Criticiſme, to amend what thou findeſt amiſſe; ſo, for ſuch a friend, this ſhort Epiſtle will be long enough; but if thou beeſt otherwiſe affected, and readeſt only, that thou mayſt carpe, to ſuch I have made this too long; I deſire really thou mayſt profit by thy reading, ſo ſhalt thou receive comfort, and I my deſired reward, thy good will, farewell.</p>
+            <closer>
+               <signed>
+                  <hi>Thine to doe thee good. M.</hi> J.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="meditations">
+            <pb n="1" facs="tcp:169871:3"/>
+            <head>Temporis Anguſtiae.</head>
+            <div n="1" type="meditation">
+               <head>MEDITATION I.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is a Maxime in Phy<g ref="char:EOLhyphen"/>loſophie, that out of nothing comes no<g ref="char:EOLhyphen"/>thing<g ref="char:punc">▪</g> but this would put us into confuſion, and reduce us againe to a Chaos, un<g ref="char:EOLhyphen"/>leſſe we were ſet upright by Divini<g ref="char:EOLhyphen"/>ty, which aſſur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s us, that an omni<g ref="char:EOLhyphen"/>potent hand out of nothing hath ex<g ref="char:EOLhyphen"/>tracted and drawn all things: being then thus rectified, let us raiſe our thoughts to their higheſt pitch, in contemplation of the end for which we were created; The firſt and
+<pb n="2" facs="tcp:169871:4"/>chiefeſt thing certainly is, to exalt with prayſes the power of our God. And the next is to love our bre<g ref="char:EOLhyphen"/>thren, and neighbours, for if we love not our brethren whom wee have ſeen, how can we love God whom we have not ſeen: for the former, our duty towards our God, is to beleeve that he is, that he is Al<g ref="char:EOLhyphen"/>mighty, and that all his attributes are true; what Nation was ever ſo barbarous which did not acknow<g ref="char:EOLhyphen"/>ledge a ſuperintendent deity? Nature it ſelfe hath taught us, that there is ſomewhat beyond it ſelfe, to whoſe glory, and for the advancement of whoſe honour, all our actions ought to tend. The <hi>Scythians,</hi> though farre remote both from civility and ver<g ref="char:EOLhyphen"/>tue, yet acknowledged their <hi>Jupi<g ref="char:EOLhyphen"/>ter.</hi> The <hi>Egyptians,</hi> whoſe mindes vvere only ſtuffed with the ſtudy of Witchcrafts, yet worſhipped their <hi>Oſiris.</hi> The <hi>Indians,</hi> then whom,
+<pb n="3" facs="tcp:169871:4"/>vvho more ſavage, yet they, rather then will have none to worſhip, fall downe to the Devill. To conclude, the <hi>Turke,</hi> though none more cruell, yet have they their <hi>Mahomet;</hi> Nay, thoſe <hi>Anthropophagi,</hi> thoſe man eat<g ref="char:EOLhyphen"/>ting <hi>Cannibals,</hi> then whom, though none more devilliſh, yet have they their Deity, on whoſe Altars they offer ſacrifices, and to whom they put up, and preferre their Peti<g ref="char:EOLhyphen"/>tions; And ſhall we, who are Chri<g ref="char:EOLhyphen"/>ſtians, bought with a price, even the bloud of the Lamb, I ſay, ſhall we, be more barbarous then b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bariſme it ſelfe? not only denying the ho<g ref="char:EOLhyphen"/>nour due to our great God, but e<g ref="char:EOLhyphen"/>ven as much as in us lies, both de<g ref="char:EOLhyphen"/>nying our God to be, and endea<g ref="char:EOLhyphen"/>vouring to pull him, if it were poſſi<g ref="char:EOLhyphen"/>ble, out of heaven by our ſinnes; We knovv his power, but contemne it, and all men are ſufficiently inſtru<g ref="char:EOLhyphen"/>ed; but Patience abuſed is turned
+<pb n="4" facs="tcp:169871:5"/>to fury. Secondly, we muſt love our brethren, Love (ſaith the Apo<g ref="char:EOLhyphen"/>ſtle) worketh no harme to his neigh<g ref="char:EOLhyphen"/>bour, therefore Love is the fulfil<g ref="char:EOLhyphen"/>ling of the Law; and our Saviour himſelfe faith, <hi>This command I leave you, that yee love one another.</hi> Cer<g ref="char:EOLhyphen"/>tainly, the often inculcation, and repetition of this duty in the Scrip<g ref="char:EOLhyphen"/>ture ſheweth unto us, how ſtrict and diligent we ought to be in the obſervation of it. It is a command, upon whoſe obſervance depends our vvhole happineſſe; for what happi<g ref="char:EOLhyphen"/>neſſe can there be, where love is ta<g ref="char:EOLhyphen"/>ken away? Or hovv can that Com<g ref="char:EOLhyphen"/>mon-wealth flouriſh, where nothing abounds but ſtrifes and contenti<g ref="char:EOLhyphen"/>ons? By Concord, ſmall things in little time grow great, nay, come to the top of proſperity; by diſcord things already great, in a ſmall time grovv leſſe, nay, vaniſh into no<g ref="char:EOLhyphen"/>thing; as by the one we riſe to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:169871:5"/>higheſt top of humane felicity, ſo by the other, we are throwne into the depth and gulfe of all wretched calamities. Hence then you ſerpentin brood of <hi>Cadmus,</hi> who onely be<g ref="char:EOLhyphen"/>gin to live, that ye may ſtudy and endeavour to ruine one another: Thinke you that God created man to be a ſelfe-deſtroyer? nay, we ſee otherwiſe in the very beginning; <hi>Cain</hi> for murdering his brother <hi>A<g ref="char:EOLhyphen"/>bel,</hi> was curſed by God with a hea<g ref="char:EOLhyphen"/>vie curſe, to be a vagabond, and God ſet a marke upon him, leſt any man ſhould kill him; If yee bite and devoure one another, yee ſhall be conſumed one of another; What can be expected there but de<g ref="char:EOLhyphen"/>ſolation, where every man vvill be in all caſes his owne, both Judge and Executioner? When every man may doe that which is right in his owne eyes? What ſociety can there be among men, where Love
+<pb n="6" facs="tcp:169871:6"/>is taken away? Love is the life of the ſoule, the maintainer of unity, the bond of peace, the efficient cauſe of happineſſe (and as Logici<g ref="char:EOLhyphen"/>ans ſay, <hi>Cauſa ſine qua non</hi>) it is the builder of Common-wealths, the repairer of breaches, the reſtorer of pathes to dwell in; VVe know not God, unleſſe we love, God is love; To conclude, Love covereth a mul<g ref="char:EOLhyphen"/>titude of ſinnes, Love is like the Spring, in, and by which all things flouriſh, it is the moſt noble paſſion of the ſoule, which wholly ſpends it ſelfe in the attaining of a deſired good. I could vvith the Silke-worm, quite worke my ſelfe to death, ſpend my ſelfe, all my choyſeſt parts, all my abilities in this heaven<g ref="char:EOLhyphen"/>ly Subject; he is a child, a ſenſeleſſe creature, a beaſt, worſe then a beaſt, that hath never been touched with this heroike paſſion; but I digreſſe, I tranſgreſſe; to returne, Let bro<g ref="char:EOLhyphen"/>therly
+<pb n="7" facs="tcp:169871:6"/>love continue, ſo ſhall wee bring to our ſelves bleſſing upon bleſſing, we ſhall enjoy the God of love, and by the love of God, we ſhall be made a mirrour of hap<g ref="char:EOLhyphen"/>pineſſe, the glory of all people; A Nation, of whom it will be re<g ref="char:EOLhyphen"/>ported, that bleſſings &amp; happineſſes have ſeated themſelves among us; to conclude, let us ſerve God truly, and love our brethren and neigh<g ref="char:EOLhyphen"/>bours heartily, ſo ſhall our peace be bleſſed and laſting, and our hap<g ref="char:EOLhyphen"/>pineſſe infinite and eternall, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="2" type="meditation">
+               <head>
+                  <hi>MED. 2.</hi> On the ſhortneſſe of mans life.</head>
+               <p>THat the moſt laſting and durable things, if ſublunary, are but fraile, I am ſure, no man will, or can deny; the greateſt Prince, as well as the meaneſt beggar, are ſubject equally
+<pb n="8" facs="tcp:169871:7"/>to the ſtroake of death; the lofty Cedar as well as the inferiour ſhrubs, are lyable to be rooted up by ſtormy blaſts. <hi>Craeſus</hi> with all his wealth, <hi>Ariſtotle</hi> with all his wit, and all men, with all their wiſdome, have, &amp; ſhall periſh, &amp; turne to duſt. One being asked what the life of man is, turned round and went away, ſhewing thereby that it is leſſe then a vapour; as we are young, and may live, ſo we are mortall, and muſt dye; Phyloſophers accounted it the chiefeſt felicity, never to be borne, the next, ſoon to dye. The oldeſt man living, if he but take away the time ſpent in ſleeping and in idleneſſe, (for the meaſure of life is not length, but honeſty, and the ſtudy of vertue; neither doe we enter in<g ref="char:EOLhyphen"/>to life, to the end we may ſet downe the day of our death; but therefore doe we live, that we may obey him that made us, imploy the time
+<pb n="9" facs="tcp:169871:7"/>and talent he beſtowes, well, and with wiſdome, and to dye when<g ref="char:EOLhyphen"/>ſoever he ſhall call us) I ſay, let him but abſtract thoſe times, he will finde no length of time whereof to brag. It is true, Age is the gift of God, yet it is the meſſenger of death; no man can promiſe himſelf life for a moment: how great uſe might we make of this meditation; what manner of perſons ought we to be in all godlineſſe and honeſty, alway to be prepared againſt the day of our death (for every mans deaths-day, is his dooms-day) which we know not how ſoon may hap<g ref="char:EOLhyphen"/>pen, for,</p>
+               <q>
+                  <l>Old men muſt die, young men may die ſoon,</l>
+                  <l>We ſee the time's not long 'twixt night and noone.</l>
+               </q>
+            </div>
+            <div n="3" type="meditation">
+               <pb n="10" facs="tcp:169871:8"/>
+               <head>MED. 3.</head>
+               <p>WHo would ever truſt him that loves to break the truſt repo<g ref="char:EOLhyphen"/>ſed on him, and will never do any good, unleſſe it be to ſatisfie ſome private ends, ſome ſelfe intereſt; as ſuch men deſerve not to be truſted, ſo neither ought they to live, for in ſtretching my conſcience to harme others, I deceive my ſelf, and while I ſtrive by wicked and ſiniſter ends to rob others of their hoped, and ſought earthly good, I barre my ſelf from an everlaſting, by ſhutting hea<g ref="char:EOLhyphen"/>ven againſt my ſelf; As I would not promiſe more then I mean to perform, break my faith, ſo I would not do more then I could with conveniency, leaſt regard of my faith breake me.</p>
+            </div>
+            <div n="4" type="meditation">
+               <head>MED. 4.</head>
+               <p>REbellion is as the ſin of witch<g ref="char:EOLhyphen"/>craft, ſaith the Scripture, &amp; we
+<pb n="11" facs="tcp:169871:8"/>know that witchcraft is doomed to death by the lawes of God &amp; men; by humane laws with death here, by divine with death (if we may judge) certainly, (without Gods great mer<g ref="char:EOLhyphen"/>cie) everlaſting; neceſſity and want of friends ſhall never make me take ſin for a refuge, I had rather go the nar<g ref="char:EOLhyphen"/>row way alone, then accompanyed the broad one: I had rather go to heaven by my ſelf, then to hell with a multitude; and if I muſt make a Covenant, yet it ſhall not be with death and hell, leaſt while I vie ini<g ref="char:EOLhyphen"/>quity with the devill, I buy the devil, with hell to boot, for my iniquity.</p>
+            </div>
+            <div n="5" type="meditation">
+               <head>MED. 5.</head>
+               <p>HOpe is one of St. <hi>Pauls</hi> Car<g ref="char:EOLhyphen"/>dinall vertues, which comforts us, &amp; endures us with patience, to wait the Lords leaſure, for the fulfilling all his gracious promiſes to us; as de<g ref="char:EOLhyphen"/>ſpaire
+<pb n="12" facs="tcp:169871:9"/>on the contrary taints our purer part the ſoule, with a raſh preſumption againſt, and charging God with a breach of promiſe. Hope well, and have well, (ſaith the pro<g ref="char:EOLhyphen"/>verb) I will therefore hope well, that I may have well, and never diſ<g ref="char:EOLhyphen"/>paire of not obtaining that, which I have no ſure way to looſe, but by not ſeeking.</p>
+            </div>
+            <div n="6" type="meditation">
+               <head>MED. 6.</head>
+               <p>REſolution and policy are the two chiefeſt things that make up a perfect ſouldier; policy to lay deſignes for themſelves, and counter<g ref="char:EOLhyphen"/>vaile their enemies; and reſolution to put them propoſed in execution; po<g ref="char:EOLhyphen"/>licy layes the ground work, the foun<g ref="char:EOLhyphen"/>dation; reſolution builds &amp; finiſhes the ſtructure; policy without reſolution, <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:169871:9"/>building, good for little; reſolution without policy, a building without a foundation, good for leſſe; but joyn them, and there comes forth a good<g ref="char:EOLhyphen"/>ly building, excellent wayes to ob<g ref="char:EOLhyphen"/>taine both a victory ſingle, or abſo<g ref="char:EOLhyphen"/>lute conqueſt, and I am ſure I ſhall never attaine the Jewels locked up in the cheſt of reſolution, unleſſe I am able to attaine the key of policy.</p>
+            </div>
+            <div n="7" type="meditation">
+               <head>MED. 7.</head>
+               <p>THe childe that is now born, cries aſſoone as it is entered into the world as foreſeeing the miſeries that he muſt undergo therein, and indeed what is the whole life of man but a compound of miſerie; ſince there is nothing here, in which he may joy, &amp; whereon he may ſettle his happy<g ref="char:EOLhyphen"/>neſſe<g ref="char:punc">▪</g> the greateſt pleaſures bring
+<pb n="14" facs="tcp:169871:10"/>the greateſt cares; &amp; if his head be ador<g ref="char:EOLhyphen"/>ned with a crowne, his ſhoulders ſhall ſurely beloaden with cares; every day increaſeth our ſorrow; he therefore is moſt happy that dyeth ſooneſt. Our time paſſeth away, and we know not how, I will therefore alwaies be prepared againſt that time, which ſhal come, I know not how ſoone, may come preſently, will come at laſt; &amp; ſince I know every ſtep brings me nearer to my journies end, and every day brings me nearer to my death. I will pray, Lord prepare me, for he that may dye every day, doth as it were dye daily.</p>
+            </div>
+            <div n="8" type="meditation">
+               <head>MED. 8.</head>
+               <p>AS he cannot be a juſt man, that contrary to the lawes of nature infringes another mans right by vio<g ref="char:EOLhyphen"/>lence, and injury, ſo he cannot be a
+<pb n="15" facs="tcp:169871:10"/>good Chriſtian, that contrary to the laws of God, with a malicious heart, doth that to another, which he would not have done to himſelf; he that knows not how to obey, de<g ref="char:EOLhyphen"/>ſerves not to rule, for an imperious ſubject will certainly prove an in<g ref="char:EOLhyphen"/>ſolent Tyrant. I will give to every man his due, to avoid the ſtaine of injuſtice, and I will do to all men as to my ſelfe, to gaine the title of a Chriſtian; I will learne to obey here, that I may be admitted to rule hereafter, which I may with Gods grace attaine, knowing that for Chriſts little flock, there is a King<g ref="char:EOLhyphen"/>dome prepared.</p>
+            </div>
+            <div n="9" type="meditation">
+               <head>MED. 9.</head>
+               <p>LOve, as it is the badge of a Chriſtian, ſo it is the note of a man, becauſe it is a paſſion too no<g ref="char:EOLhyphen"/>ble
+<pb n="16" facs="tcp:169871:11"/>for any irrationall creature to be ſubject to. For God having gi<g ref="char:EOLhyphen"/>ven man a more divine part, the ſoule, then any other creature, ſo his paſſions are higher, then that they ſhould be ſubjected by any thing but reaſon, but of all, this is moſt excellent, as alwaies aiming at ſome good: for a lovers eye is moſt peircing, his wit of greateſt maturi<g ref="char:EOLhyphen"/>ty, his tongue of greateſt eloquence, &amp; all his inward parts (commonly) moſt excellent; which he hath moſt need of, becauſe vertue and good are placed among ſo many their contraries, that unleſſe his under<g ref="char:EOLhyphen"/>ſtanding be quicker, he may be decei<g ref="char:EOLhyphen"/>ved, and graſping, <hi>Ixion</hi> like, a cloud inſtead of the ſubſtance, an alluring falſhood, for a pleaſing truth: but love is my ſubject, (or I am his, chuſe you whether) and he that will write ſo divine a thing, had need of a better pen, and a quicker wit, then
+<pb n="17" facs="tcp:169871:11"/>my immature youth can yeild, leaſt my dull phraſe, clog his lighter wings, and of God <hi>Cupid,</hi> make him, devill <hi>Cupido.</hi> Love then is the life of the ſoule, and the ſoule of ſome mens life, it is a pleaſing tor<g ref="char:EOLhyphen"/>ment, a bitter ſweet, a lover of truth, a hater of diſſimulation, it is the perfection of all joy, the conſumma<g ref="char:EOLhyphen"/>tion of all earthly bleſſings. <hi>Cupid</hi> by the heathen, was made a God, which ſhewes his divine power, it is al<g ref="char:EOLhyphen"/>waies young, for true love can ne<g ref="char:EOLhyphen"/>ver grow old and dye; and nothing doth ſo much ſweeten and delight our life as love; the Crowne is the enſigne of a King, and no ſuch King as love; it hath ſubdued all crea<g ref="char:EOLhyphen"/>tures, rationall, ſenſitive, vegetative, yea, and ſenceleſſe have their ſym<g ref="char:EOLhyphen"/>pathies, the fierceſt creatures are ta<g ref="char:EOLhyphen"/>med by love, <hi>Ardet Amans Dido; &amp;c.</hi> and ſhall I be refractory to ſo great a power? no, I will ſubmit and
+<pb n="18" facs="tcp:169871:12"/>acknowledge it, I rejoyce in my ſlavery. Oh heavenly paſſion, that canſt wrap up my ſenſes in ſo great delight! Let me but enjoy thy wiſhed preſence, I deſire no great<g ref="char:EOLhyphen"/>er joy; for while it is joyned with vertue, it partakes of its goodneſſe, and what of delight is wanting in one, is added by the other, a ver<g ref="char:EOLhyphen"/>tuous Love, being nothing elſe but a love of vertue.</p>
+               <q>
+                  <l>Thus let me love, and there Ile reſt,</l>
+                  <l>'Cauſe vertuous love is alwayes beſt.</l>
+               </q>
+            </div>
+            <div n="10" type="meditation">
+               <head>MEd. 10.</head>
+               <p>I Can never ſee a candle, that is now burning in its greateſt ſtrength and ſplendor, preſently with one little blaſt of winde puft out and extinguiſhed, but it drives me to the thought of my mortality;
+<pb n="19" facs="tcp:169871:12"/>for why may not I in the heighth of all my jollity be ſuddenly taken a<g ref="char:EOLhyphen"/>way? Why ſhould I be ſpared? doe I not ſee every day me<g ref="char:cmbAbbrStroke">̄</g> of abler parts fal before my face, and on every ſide of me? Have I a leaſe of my life, or have I made a Covenant with Death? If ſo, where is my evi<g ref="char:EOLhyphen"/>dence? what have I, that in the leaſt manner may, or can oblige and tye Death? no, I have no ſuch thing, I confeſſe my frailty, and cannot but acknowledg, that without Gods mercy, the moſt contemptible of the Creatures might arreſt me for an action of treſpaſſe againſt my Crea<g ref="char:EOLhyphen"/>tor, &amp; deliver me over to his Jaylor, Death, till I could anſwer for my miſdemeanors? But Lord, if thou ſhouldeſt be extreame to marke what is done amiſſe, who then could be able to ſtand? Enter not then into Judgement with thy ſer<g ref="char:EOLhyphen"/>vant, for no fleſh living can be juſti<g ref="char:EOLhyphen"/>fied in thy ſight.</p>
+            </div>
+            <div n="11" type="meditation">
+               <pb n="20" facs="tcp:169871:13"/>
+               <head>MED. 11.</head>
+               <p>I Can reade in no book, but it pre<g ref="char:EOLhyphen"/>ſents to my ſight ſome profitable objects, to remember me of my mortality; for reading in <hi>Martial,</hi> I found an Epigram made on a lad, who walking under the caves of ſome noble houſe in <hi>Rome,</hi> in the winter, when the cold was pre<g ref="char:EOLhyphen"/>dominant, and congealed the water into hard Ice, an Iſicle fell downe on him, and killed him; herein, me thoughts, was preſented a ſad <hi>memento</hi> to after Ages of their owne frailty, when vvater, contra<g ref="char:EOLhyphen"/>ry to its nature, ſhall turne (as I may ſay) heads-man; Doe wee feare drowning? When can we walke with more ſafety then in winter, when the hard froſts with their bi<g ref="char:EOLhyphen"/>ting ſharpneſſe have converted wa<g ref="char:EOLhyphen"/>ter into a more condenſe matter,
+<pb n="21" facs="tcp:169871:13"/>and as it were made in that element a new Creation, yet then (ſee the frailtie of our natures) which from ſuch (even) helps, cannot gather any ſafety: nay, from the fal<g ref="char:EOLhyphen"/>ling Iſicle, I collect this, that the meaneſt things that were by God created, are of power ſufficient to execute Gods wrath and vengeance on us for our ſinnes; But there is mercy with thee, that thou mayſt be feared, &amp;c.</p>
+            </div>
+            <div n="12" type="meditation">
+               <head>MED. 12.</head>
+               <p>LOve is a voluntary affection and deſire to enjoy that which is good; Love wiſhes, deſire en<g ref="char:EOLhyphen"/>joyes: now if there be ſo much ſweetneſſe in the theoretick part, how much more is there in the pra<g ref="char:EOLhyphen"/>ctick; if there be ſo much pleaſure in the journey, how much greater
+<pb n="22" facs="tcp:169871:14"/>joy at the end? If it ſomewhat tends to vertue, to wiſh good, then it is vertue it ſelfe to do, to enjoy good; if deſire of good make a man ver<g ref="char:EOLhyphen"/>tuous, then the full enjoyment of it, makes a man perfectly happy; O divine and heavenly paſſion, that canſt at the ſame time make a man both vertuous and happy! Let me now begin to love, that I may begin to be vertuous, and proceed in affection, that I may be truly happy. What happineſſe greater then true love? What Paradiſe more glorious, then that of affection? Let me then love truly, that I may enjoy happineſſe, and let me de<g ref="char:EOLhyphen"/>vote my ſelfe to a vertuous affecti<g ref="char:EOLhyphen"/>on, that I may have a ſhare in the ter<g ref="char:EOLhyphen"/>reſtriall Paradiſe.</p>
+               <q>
+                  <l>Thou conquer'ſt all, Love, let not me be free,</l>
+                  <l>I will devote my ſelf wholy to thee;</l>
+                  <l>Thou canſt make happy, yea, and vertuous too,</l>
+                  <l>Accept me then, Ile be a ſervant true.</l>
+               </q>
+            </div>
+            <div n="13" type="meditation">
+               <pb n="23" facs="tcp:169871:14"/>
+               <head>MED. 13.</head>
+               <p>WHen I ſee wet wood laid on a fire, as it will not burne without much blowing, ſo it will dead and ſpoile the reſt which burnt well before; I cannot but think of mans inability to good, for of him<g ref="char:EOLhyphen"/>ſelf, being backward to do any ver<g ref="char:EOLhyphen"/>tuous thing, when he is clogged with the heavy lumpiſh maſſe of the body, it will even obliterate thoſe good thoughts that were before; ſeeing then we are ſo unable to do any good thing of our ſelves, let us fly to him that is able to give us both to will, and to do good.</p>
+               <q>
+                  <l>Lord we are wicked, can do nothing well,</l>
+                  <l>And do in nought but vitiouſneſſe excell.</l>
+                  <l>That we can do no good<g ref="char:punc">▪</g> is our hearts grief,</l>
+                  <l>But we beleeve, Lord help our unbeleif.</l>
+               </q>
+            </div>
+            <div n="14" type="meditation">
+               <pb n="24" facs="tcp:169871:15"/>
+               <head>MED. 14.</head>
+               <p>PRide hath been the deſtruction of all its lovers, and alwaies carries them the higher, to make their preci<g ref="char:EOLhyphen"/>pice the greater: what made <hi>Adam</hi> loſe his Paradiſe, but pride<g ref="char:punc">▪</g> &amp; a deſire to know more then was neceſſary for him? what threw the angels out of heaven, and of demy-gods made them all devils, but their too great &amp; aſpiring pride? our very common proverb, pride wil have a fall, ſhould teach us to ſhun that, that we my ſtand upright; why ſhould I love that that hates me, and how ſhall I better know a perfect hatred, then by this, that it ſeeks my overthrow? would any reaſonable man be altogether guided and directed by his known enemy, and is it not our greateſt e<g ref="char:EOLhyphen"/>nemy that ſtirrs us up to that dam<g ref="char:EOLhyphen"/>nable ſin? I have no way then to uphold my ſelfe, but by follow<g ref="char:EOLhyphen"/>ing
+<pb n="25" facs="tcp:169871:15"/>my maſter Chriſts precept; be ye lowly as I am lowly, I will ne<g ref="char:EOLhyphen"/>ver therefore be refractory to thoſe commands that drive me to good, but I will take and ſubmit to my friends counſell, (and what friend more true, then he that hath laid downe his life for my ſake?) I will never therefore aſpire, or climb high, leſt I take a fall, but I will alwayes be humble, as knowing it is ſafeſt ſtanding on the ground.</p>
+               <q>Qui jacet in terrâ non habet, unde cadat.</q>
+            </div>
+            <div n="15" type="meditation">
+               <head>MED. 15.</head>
+               <p>THe tongue though it is a little, yet it is an unruly member, and unleſſe well bridled, may bring the whole frame into a confuſion. God hath given us two eares, two eyes, and two hands, yet but one tongue,
+<pb n="26" facs="tcp:169871:16"/>that we ſhould heare and ſee, and doe twice as much as wee ſhould ſpeake; I will not therefore be ſo thrifty of any thing as my ſpeech, becauſe a thing once ſpoken cannot be recalled; It hath never been hurtfull to any to hold his peace, to ſpeake, damage to many. I will therefore keep my tongue as with a bridle, and ſet a watch before the doore of my lips, that ſo I may tame that which otherwiſe might happen to make me be kept under; And the only way to cover folly is ſilence; for though the wiſe mans tongue is in his heart, yet the fooles heart is in his tongue.</p>
+            </div>
+            <div n="16" type="meditation">
+               <head>MED. 16.</head>
+               <p>ENvie is an inward repining at an<g ref="char:EOLhyphen"/>others good, and a griefe for the proſperitie of others, and herein doe
+<pb n="27" facs="tcp:169871:16"/>envious men imitate their father the Devill, that knowing their owne ſtate to be bad, they hate thoſe, whom God hath placed in a better lot. <hi>Sorte tua contentus abi,</hi> is a pre<g ref="char:EOLhyphen"/>cept fit for all men, he then that is not only not content with his owne, but covets anothers, de<g ref="char:EOLhyphen"/>ſerves a double puniſhment; firſt, for violating Gods Lawes, and ſe<g ref="char:EOLhyphen"/>condly, for infringing and intrench<g ref="char:EOLhyphen"/>ing on his neighbours right; I will never therefore envie anothers good eſtate, becauſe I have not wit or grace enough to make mine ſo too. I will never repine at anothers pro<g ref="char:EOLhyphen"/>ſperity, leſt while I ſeeke to impaire them, I make a breach on my ſelfe; for he that ſeekes to climbe by ſuch a ſecret ſinne, in all probability vvill fall with open ſhame.</p>
+            </div>
+            <div n="17" type="meditation">
+               <pb n="28" facs="tcp:169871:17"/>
+               <head>MED. 17.</head>
+               <p>OF all vices drunkenneſſe is the worſt, and of all ſinners the drunkard is the moſt hainous, the ſinne being a compendium, an epito<g ref="char:EOLhyphen"/>mie of all other offences, and the ſinner by it made fit for any, for all enormities. Man when he is at his beſt is good for little, but when he is drunke, he is good for nothing; he is then made ſuch light ſtuffe, that the Devill may carry him vvhe<g ref="char:EOLhyphen"/>ther he li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts at every blaſt, which we may more plainly ſee, if wee doe but conſider, how every breath he drawes in, drives him from one ſide of the ſtreet to the other. The <hi>Lacedemonians</hi> to make this vice odi<g ref="char:EOLhyphen"/>ous to their children, vvould ſhevv them their ſervants drunke. Though I commend not their act, yet I can<g ref="char:EOLhyphen"/>not diſlike their end, though to make their ſervants drunke were a fault in
+<pb n="29" facs="tcp:169871:17"/>the act, yet by it to make their chil<g ref="char:EOLhyphen"/>dren ſhunne that ſvviniſh vice, was a vertue in the end; but we are o<g ref="char:EOLhyphen"/>therwiſe taught, not to be evill that good may come thereof; Since then God hath created me with a reaſo<g ref="char:EOLhyphen"/>nable ſoule, that I might follow, ob<g ref="char:EOLhyphen"/>ſerve and embrace vertue and good<g ref="char:EOLhyphen"/>neſſe, I will never ſo much dege<g ref="char:EOLhyphen"/>nerate from the end of my creation, as to make my body, which was cre<g ref="char:EOLhyphen"/>ated a veſſell for puritie, to be a ſinke of iniquity, and to turne a veſſell for vertuous things, into a tunne to hold drinke.</p>
+            </div>
+            <div n="18" type="meditation">
+               <head>MED. 18.</head>
+               <p>BEauty is an excellent ornament of the body, making all men love and admire that perſon in whom it recides; but if the heart anſwers the face, if the ſoule be as
+<pb n="30" facs="tcp:169871:18"/>well repleat with vertues, as the bo<g ref="char:EOLhyphen"/>dy repleniſhed with beauty, how can it be but there is a perfect har<g ref="char:EOLhyphen"/>monie? The beauty of the ſoule, vertues, are like goads to ſtirre up the body to good; the ornament of the body, beauty, is like poyſon to the ſoule, to infect it. The beauty of the ſoule helpes to perfect the body, though the beauty of the bodie too often proves a ſnare to the ſoule.</p>
+            </div>
+            <div n="19" type="meditation">
+               <head>MED. 19.</head>
+               <p>GOds mercy never failes them that truly ſeek it; it is one of his chiefeſt attributes to be merci<g ref="char:EOLhyphen"/>full, why then ſhould wee deſpaire of that, which he doth as it were hold forth to us? If we repent and amend, repent of the paſt evills we have done, and amend what hath
+<pb n="31" facs="tcp:169871:18"/>been amiſſe for the time to come, he is ready to imbrace us in the armes of his ſonne; Why will we rather imitate <hi>Achitophell</hi> or <hi>Iudas,</hi> perſiſt in our wickedneſſe and pe<g ref="char:EOLhyphen"/>riſh, then with the prodigall ſonne returne, and be taken to mercy? Since then God holds forth his mercy, and ſayes, Returne, Oh <hi>Shu<g ref="char:EOLhyphen"/>lamite!</hi> returne, returne, I will ac<g ref="char:EOLhyphen"/>cept of his counſell, and embrace his mercy.</p>
+               <q>
+                  <l>If teares once flow but from a <hi>Peters</hi> eye,</l>
+                  <l>Theyle mercy finde, ſuch are my tears, my crie.</l>
+               </q>
+            </div>
+            <div n="20" type="meditation">
+               <head>MED. 20.</head>
+               <p>EVen to the pooreſt Peaſants, Na<g ref="char:EOLhyphen"/>ture hath taught thus much, to deſire content and eaſe; and where are theſe to be enjoyed with greater happineſſe, then in the haven of reſt?
+<pb n="32" facs="tcp:169871:19"/>what content greater then to enjoy happineſſe? and vvhat hahpineſſe greater then to have communion with God? I will ſo direct my ſteps, that they may carry me to that place where reſt and happineſſe dwell, and I will ſo order my goings, that at my journies end, I may not faile (vvith Gods grace) of the end of my journey, heaven. I will caſt the vvorld, and all things in it at my back, becauſe they are all moſt vain, and I will only drive at heaven, be<g ref="char:EOLhyphen"/>cauſe it alone can make me content<g ref="char:EOLhyphen"/>edly happy; I will not value earth, nor principalities, nor powers, but will ſpurne them all for a doore kee<g ref="char:EOLhyphen"/>pers place in thy houſe, as knowing, that in thy preſence is fulneſſe of joy, and at thy right hand are plea<g ref="char:EOLhyphen"/>ſures for evermore.</p>
+            </div>
+            <div n="21" type="meditation">
+               <pb n="33" facs="tcp:169871:19"/>
+               <head>MED. 21.</head>
+               <p>VVHat is it that makes man ſo much love earth, but that it is moſt like him, a heavy and lumpiſh maſſy compounded body, good for nothing but to bring forth briers and thornes, unleſs well ma<g ref="char:EOLhyphen"/>nured and tilled by art and induſtry, in it may man eaſily perceive the dulneſs of his nature, apt to nothing but what is by frequent inculcati<g ref="char:EOLhyphen"/>ons driven into it; nay, the ſoul, that immortall and divine part of man, would fly to heaven, were it not clogged and kept down by that heavy element: every thing tends to its center, heavy downward, light upward: man therefore, that is in his body, looks only at that, though in his ſoul he aime higher.</p>
+               <q>
+                  <l>Lord make me quit my ſelf, and every thought</l>
+                  <l>Thats clogs me down, &amp; makes me do whats nought.</l>
+                  <l>Lord raiſe my thoughts, and raviſh my deſire,</l>
+                  <l>That ſo my ſoul may to thy heaven aſpire.</l>
+               </q>
+            </div>
+            <div n="22" type="meditation">
+               <pb n="34" facs="tcp:169871:20"/>
+               <head>MED. 22.</head>
+               <p>REligion by ſome men is made a cloak for maliſciouſneſs, &amp; like <hi>Ianus,</hi> made to carry two faces under one hood, by many men it is little, by moſt not at all eſteemed, and few va<g ref="char:EOLhyphen"/>lue it as they ought; ſome mens Re<g ref="char:EOLhyphen"/>ligions are locked up in their coffers, accounting gain their only heaven, ſome make gain great godlineſs, and others make godlineſs great gain; others Religion lies in the Cooks &amp; Taylors ſhops, and commonly ſuch carry their god about with them: a third ſort there are that place their Religion on popular applauſe, and count the voyce of the common people, the voyce of God: thus e<g ref="char:EOLhyphen"/>very mans fantaſtick opinion is his Religion, and according to his de<g ref="char:EOLhyphen"/>ſire creates himſelf a god; 'twas ſaid, <hi>Primos in orbe deos fecit timor,</hi> that
+<pb n="35" facs="tcp:169871:20"/>their off-ſpring aroſe from mens fear of them; but now we fee quite con<g ref="char:EOLhyphen"/>trary, every mans luſt is his god, and what he likes and loves is his only diety: <hi>O inſipiens &amp; infacetu<g ref="char:cmbAbbrStroke">̄</g> hominum genus!</hi> he that holds an uncertain Religion, and adores a falſe god, will hardly ever attain true happineſs; no afflictions therefore ſhall make me change my true Religion, nor new and daily increaſing torments force me to deny my God, <hi>For what would it profit me to gain the whole world, and loſe my own ſoul?</hi>
+               </p>
+            </div>
+            <div n="23" type="meditation">
+               <head>MED. 23.</head>
+               <p>I have read of monſters and wilde beaſts, but an ingratefull man is worſe then either, for I know what to expect of them; but he devours courteſies, and his beſt kindneſs kills; who would ſow the winde, or plow
+<pb n="36" facs="tcp:169871:21"/>the ſand? Me thinks irrationall crea<g ref="char:EOLhyphen"/>tures accuſe ſuch men, <hi>Andronicus</hi> his Lyon will requite his Chirurgr<g ref="char:EOLhyphen"/>ons kindneſs, and will pay the hea<g ref="char:EOLhyphen"/>ling of his foot, with the ſaving of his life; the earth for received rayne and moiſture, will keep a kinde re<g ref="char:EOLhyphen"/>membrance, and pay its due thank<g ref="char:EOLunhyphen"/>fulneſs with nouriſhing fruits; <hi>Darius,</hi> though he valued not the poor mans cup of cold water, yet requited his love, not with thanks only, but a juſt reward. What ſhall we think then of thoſe who glory in their ſhame, and account it their greateſt honour not only not to pay, but to forget courteſies? that think every fa<g ref="char:EOLhyphen"/>vour beſtowed on them deſerved, and ſo not worthy a reward, <hi>mulus mu<g ref="char:EOLhyphen"/>lum ſcabit,</hi> was the old proverb, One good turn requires another; as I will therefore have one hand to receive, ſo I will have another to repay; and when any ones favour beſtows
+<pb n="37" facs="tcp:169871:21"/>on me, what I cannot equally and fully requite, I will not be wanting in my endeavors, and what I cannot perform by my actions, I will fulfill with my deſires. He owes moſt that payes nothing.</p>
+            </div>
+            <div n="24" type="meditation">
+               <head>MED. 24.</head>
+               <p>WHen I ſee that Spoak in the wheel of a Coach, which was even now at the very bottom, and ran in the dirty channell, pre<g ref="char:EOLhyphen"/>ſently exalted to the top, and as it were, domineering over the reſt; me thinks it preſents to my view the great inconſtancy of Fortune, that has exalted the meaneſt of all men to the higheſt pitch of earthly felici<g ref="char:EOLhyphen"/>ty, and caſt down the noble, and laid them groveling in the mire; yet then to ſee that loweſt come to the top, cheers my drooping hopes, and tells
+<pb n="38" facs="tcp:169871:22"/>me that their ſeat is but ſlippery, and will decline: why ſhould I then deſpair of ever riſing, becauſe I am now down, our old Proverb tells me, that when things are come to the Worſt, then they will mend. I will therefore patiently bear the worſt, and cheerfully hope the beſt, ſo ſhall not my preſent afflictions too much deject me, and the good when it comes will not ſo overjoy me, but that I ſhall know how to make good uſe of it.</p>
+            </div>
+            <div n="25" type="meditation">
+               <head>MED. 25.</head>
+               <p>WHen I walked by the Sham<g ref="char:EOLhyphen"/>bles and ſaw the harmleſs ſheep, conſcious to its ſelf of its own innocency, how quietly, and with how great patience it receives the fatall ſtroke from the cruell Butcher, and preſently after, fee the filthy
+<pb n="39" facs="tcp:169871:22"/>ſwine, with how great reluctancy, how much roaring, and how great unquietneſs it undergoes and takes the knife from the ſame hand, me thinks it held forth to me the unſpot<g ref="char:EOLhyphen"/>ted life, and quiet conſcience of a righteous man, that can <hi>acquieſce,</hi> and reſt himſelf in the hope of mercy through his Saviours merits, and doth quietly yeeld his ſoul to him that gave it; when the wicked, con<g ref="char:EOLhyphen"/>ſcious to himſelf of his own guilt, ſtartles at the thought, is amazed with the terrors, and roares even for fear of death. As I will therefore al<g ref="char:EOLhyphen"/>ways do my endeavour to keep my ſelf from a violent death, ſo I will conſtantly live as if I ſhould die dai<g ref="char:EOLhyphen"/>ly, preſently; I will always have my Lamp ready trim'd, ſo ſhall I not fear, though the Bridegroom come even now; for an ungodly unpre<g ref="char:EOLhyphen"/>paredneſs makes and encreaſes fear.</p>
+            </div>
+            <div n="26" type="meditation">
+               <pb n="40" facs="tcp:169871:23"/>
+               <head>MED. 26.</head>
+               <p>I have read of one <hi>Pſapho,</hi> who being a man of no great eſteem, bent his minde wholy to raiſe his credit, which he did by this policy, he took birds and taught them this leſſon <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Pſapho is a great god,</hi> w<hi rend="sup">ch</hi> they having perfectly learned, he let them flie among others of their kinde, who taught it them, inſomuch that the woods ecchoed with nothing ſo much as that leſſon; which the people thinking to be di<g ref="char:EOLhyphen"/>vinely taught the birds, believed, and adored him. How fitly does this reſemble ſome men of theſe times, who ſpeak through the mouths of the vulgar, and make the common ſort to ſerve as trunks to convey to them glory and credit. If credit be my aime, I will never ſeek to gain it by ſuch ſiniſter ends;
+<pb n="41" facs="tcp:169871:23"/>the peoples applauſe is but a very tickliſh ſubject for me to make the baſis of my honor: certainly there<g ref="char:EOLhyphen"/>fore I will never look for that which cannot help me, leſt while I hope to enſlave the common people to my credit, my credit make me a common ſlave to the people.</p>
+            </div>
+            <div n="27" type="meditation">
+               <head>MED. 27.</head>
+               <p>A Covetous man of all is moſt miſerable, for he only ſtudies how to keep that which God bleſſed him with to make uſe of; and though he poſſeſſe many riches, he enjoys nothing but care; his life is all trouble, care to get, fear to looſe, for every mouſe that ſtirs in his chamber, he fears comes to borrow ſome gold: he is never ſatisfied with a great deal, though a little were too much. I will therefore pray that
+<pb n="42" facs="tcp:169871:24"/>I may be contented, ſince to ſuch a one a little is enough, and if the beſt of us had according to our deſerts too much, nothing will ſatisfie <hi>A<g ref="char:EOLhyphen"/>lexander</hi> but the whole world, but I ſay,</p>
+               <q>
+                  <l>Contents a kingdome, and the greateſt ſtore</l>
+                  <l>Is to make uſe of, and not covet more.</l>
+               </q>
+            </div>
+            <div n="28" type="meditation">
+               <head>MED. 28.</head>
+               <p>I can never heare a churliſh bauling dog barke at every one that ſtirs, and paſſeth up and downe, yet will bite none, but that in my opinion it points to me, and evidently de<g ref="char:EOLhyphen"/>clares the vile nature of detracting carpers, that wil finde fault with eve<g ref="char:EOLhyphen"/>ry thing they ſee, and glory in their criticiſmes, that miſconſtrue every action, and wreſt every word to their owne ſenſe; I can liken ſuch
+<pb n="43" facs="tcp:169871:24"/>men to nothing but Aeſops Ape, who becauſe ſhe was curtaild, would have all beaſts cut off their tailes; they judge nothing well done but whats their owne, though themſelves can doe nothing well. I would not be ſuch by any meanes, becauſe by ſcanning other mens acts, I make all have a ſtrict eye over mine; I will never therefore ſeeke that by criti<g ref="char:EOLhyphen"/>ciſmes, which I cannot attaine by vertue; for he who ſeekes to vi<g ref="char:EOLhyphen"/>lifie others, gaines no good opinion to himſelfe; for by ſeeking to de<g ref="char:EOLhyphen"/>ſtroy others honour, I make my ſelf but a foot-ſtoole, whereby their actions riſe according to their de<g ref="char:EOLhyphen"/>ſert, and gather credit out of my fall.</p>
+            </div>
+            <div n="29" type="meditation">
+               <head>MED. 29.</head>
+               <p>VVIth what willing paines, and how laborious endeavours,
+<pb n="44" facs="tcp:169871:25"/>will divers men runne a race that is ſet before them, all hoping to at<g ref="char:EOLhyphen"/>taine the glory of the prize, and to get the firſt touch of the deſired marke, though it can fall to the lot but of one to be victor; this world is a courſe, and all that live are run<g ref="char:EOLhyphen"/>ners in it, but every man almoſt ſets up for himſelfe a marke, which he purſues with all eagerneſſe. Some aime at, and attaine their deſire of riches, others not ſo much earthie, looke ſomewhat higher, and hap<g ref="char:EOLhyphen"/>ly gaine their expectations by the enioyment of deſired honour: but a third, which is the only happy man, heightens his deſire, and lifts up his ſoule, aiming alone at the only de<g ref="char:EOLhyphen"/>ſirable marke, heaven. Let me not, Oh director of my ſteps, ſpend my ſelfe in painfull labours for the at<g ref="char:EOLhyphen"/>taining that which vvill not ſatisfie, nor runne a whoring after my owne inventions: but ſince I live here, and
+<pb n="45" facs="tcp:169871:25"/>muſt make one in the race, let me di<g ref="char:EOLhyphen"/>rect my ſteps to the gaining of that marke, which can only make me happy.</p>
+               <q>
+                  <l>Heaven is the marke that I deſire to gaine,</l>
+                  <l>Let me ſo run then, that I may obtaine.</l>
+               </q>
+            </div>
+            <div n="30" type="meditation">
+               <head>MED. 30.</head>
+               <p>A Waterman is the perfect reſem<g ref="char:EOLhyphen"/>blance of an hypocrite, who goes the quite contrary way to what he ſeems, and lookes not at the place he goes to; but ſome Italian pictures preſent to our view its abſolute patterne, who ſhew on a ſtraight line a <hi>Venus</hi> in her moſt compleated beauty, enough to make your affe<g ref="char:EOLhyphen"/>ction, like <hi>Pigmalion,</hi> adore the Statute; but turne to the other ſide, it holds forth the gaſtlieſt counte<g ref="char:EOLhyphen"/>nance that ever eye beheld, the ter<g ref="char:EOLhyphen"/>rible
+<pb n="46" facs="tcp:169871:26"/>phyſiognomie of ſome bloud<g ref="char:EOLhyphen"/>thirſtie monſter, or infernall fury. Here you have the hypocrites ve<g ref="char:EOLhyphen"/>ry nature; who more Saint like? who carries a more ſeemingly ſweet a<g ref="char:EOLhyphen"/>ſpect? who of a more (though faign<g ref="char:EOLhyphen"/>ned courteous, and affable diſpoſiti<g ref="char:EOLhyphen"/>on; if you look at him with a ſingle eye? but if with a ſearching &amp; under<g ref="char:EOLhyphen"/>ſtanding eye, you take a through view of him, you will finde him a devill incarnate, whoſe heart and tongue never ſpeak the ſame things, and of ſo perverſe a nature, that no infernall hag is half ſo diviliſh; he that with <hi>Iudas</hi> batraies his Maſter with a kiſs, and under an humble o<g ref="char:EOLhyphen"/>bedience hides treaſon, deſerves a far greater torment then an open ene<g ref="char:EOLhyphen"/>my. He hath great reaſon to fear that God will never own him, as not knowing the diſguiſe he ſo often uſes. Therefore my tongue and heart ſhall go together, and I will
+<pb n="47" facs="tcp:169871:26"/>always ſeeme what I am, and be what I ſeeme.</p>
+            </div>
+            <div n="31" type="meditation">
+               <head>MED. 31.</head>
+               <p>VVAlking in the fields, and ſee<g ref="char:EOLhyphen"/>ing the tender graſs already tincted with a lively verdure by the forward Spring, and how invitingly with its ſweet freſhneſs, and freſh-ſweeneſſe, it allures the fancy of the delighted walker to ſome plea<g ref="char:EOLhyphen"/>ſing meditations. I cannot but think of mans dulneſs, that is not able from the ſweet ſhowers of Gods grace and mercy diſtilled on his drooping ſoul, to gather thence ſo much ſpiri<g ref="char:EOLhyphen"/>tuall life as may quicken his thoughts to the meditation of his happineſs. Lord, as we, like the earth of rayn are receivers and hearers of the word, ſo let us imitate its thankfull fruitfulneſs, and with a gratefull re<g ref="char:EOLhyphen"/>taliation
+<pb n="48" facs="tcp:169871:27"/>endeavour to be doers: ra<g ref="char:EOLhyphen"/>viſh our hearts with the thought of thy love, raiſe our deſires to the per<g ref="char:EOLhyphen"/>formance of thy commands; grant we may do what thou commandeſt, and then command what thou wilt.</p>
+            </div>
+            <div n="32" type="meditation">
+               <head>MED. 32.</head>
+               <p>IN theſe times I meet with many men whoſe crazed braines will ne<g ref="char:EOLhyphen"/>ver let them injoy the golden mean, but alwayes drives them to the grea<g ref="char:EOLhyphen"/>teſt extreams, <hi>Incidit in Scyllam qui vult vitare Charybdim,</hi> for hoping to eſcue the one rock of ſuperſtition, they fall and ſplit themſelves on the other of Atheiſme. I can reſemble ſuch to nothing better then Jeſuits, and both to <hi>Sampſons</hi> foxes; who while they look and ſtrive to run ſe<g ref="char:EOLhyphen"/>verall wayes, have a firebrand in
+<pb n="49" facs="tcp:169871:27"/>their hearts, with which they en<g ref="char:EOLhyphen"/>deavour to deſtroy both Church, and State. Its an old Proverb, when the fox preaches, let the Geeſe take heed, for thereby heele only ſeeke by their ſecuritie, an opportunity the better to worry them. I love not the Fox of himſelfe, he is de<g ref="char:EOLhyphen"/>ſtructive enough, but a Fox with a firebrand is like an <hi>Ignis fatuus,</hi> that wholly ſtupifies our ſenſes, and leads about in errour, till we arrive at our deſtruction. I will therefore take the wiſe mans counſel; Take theſe Foxes, theſe little-foxes that ſpoyle the Vines.</p>
+            </div>
+            <div n="33" type="meditation">
+               <head>MED. 33.</head>
+               <p>HE that lives all his life time as if he ſhould never dye, or at leaſt ſhould never come to an account, but drives off his repentance, till he
+<pb n="50" facs="tcp:169871:28"/>lies on his death-bed, and thinkes then, one <hi>Lord have mercy</hi> is e<g ref="char:EOLhyphen"/>nough to carry his ſoule to Hea<g ref="char:EOLhyphen"/>ven, may perchance finde, inſtead of joy, a gulfe of endleſſe, eaſeleſſe, remedileſſe torments: but what ſay our Ancients, <hi>nunquam ſera,</hi> it is never too late to doe well: why then ſhould I ever deſpaire of mer<g ref="char:EOLhyphen"/>cy? Was not the good thiefe on the Croſſe admitted into Paradiſe? were not the Labourers ſent into the Vineyard at the eleventh houre, and yet received an equall hire with the firſt? As I will not therefore de<g ref="char:EOLhyphen"/>ſpaire, ſo I will not yet ſo preſume to expect it as due, I wil not with the Epicures ſay, Let us eat and drinke, for to morrow we ſhall die: but let us repent and amend, ſince we may dye daily.</p>
+            </div>
+            <div n="34" type="meditation">
+               <pb n="51" facs="tcp:169871:28"/>
+               <head>MED. 34.</head>
+               <p>WHen I come among a com<g ref="char:EOLhyphen"/>pany of Muſicians, and ſee every one playing on a ſeverall in<g ref="char:EOLhyphen"/>ſtrument, and ſinging thereto, with various voyces, and yet heare what a melodious harmony ariſeth out of that diſcord, which pleaſes mine eare, delights my fancy, and luls my ſenſes, as it were into a ſleep with content; I cannot but thinke of that heavenly joy among the Saints, where all ſing Allelujahs with one conſent, what a ſuperna<g ref="char:EOLhyphen"/>turall content they enjoy! If then our inferiour muſick can ſo raviſh my ſenſes, what ſhall I ſay of thoſe ſuperiour? whoſe leaſt harmony as farre ſurpaſſes ours, as the golden ore excels the contemned ſand; the leaſt ſounding of whoſe Angelical voyces, as farre exceeds the ſweet<g ref="char:EOLhyphen"/>eſt melodie, and moſt delightfull
+<pb n="52" facs="tcp:169871:29"/>ſymphonie of our beſt tuned notes and inſtruments, as the pureſt Dia<g ref="char:EOLhyphen"/>mond, and moſt hard Adamant doe the britleſt glaſſe. Lord make mee one of that heavenly Quire, that ſing perpetuall prayſes in thy preſence, that my voyce may chant forth Al<g ref="char:EOLhyphen"/>lelujahs to thy name. Oh heavenly joyes, filled both with content and happineſſe!</p>
+               <q>
+                  <l>Lord raiſe my ſpirit that I may attaine</l>
+                  <l>To chant forth prayſes with thy heavenly train,</l>
+                  <l>Raviſh my ſenſes, my dull notes inſpire</l>
+                  <l>With holier fancies, make me of thy Quire.</l>
+                  <l>The greateſt diſcords ſhall, that now appeare</l>
+                  <l>Be then melodious harmonie; Lord heare.</l>
+               </q>
+            </div>
+            <div n="35" type="meditation">
+               <head>MED. 35.</head>
+               <p>HOvv uſeleſſe, and altogether uncomfortable is that roome at preſent, where darkneſſe is predomi<g ref="char:EOLhyphen"/>nant,
+<pb n="53" facs="tcp:169871:29"/>making me ſit in an unwilling idleneſſe, which is both uſefull and ſociable, when candles are brought in; Lord thinke I then, how com<g ref="char:EOLhyphen"/>fortleſſe is my ſoule, till thy light<g ref="char:EOLhyphen"/>ning grace ſpread its refulgent beames in my heart; infuſe it then into my heart, and then it will be readie to ſhew forth thy praiſe.</p>
+               <q>
+                  <l>Lord in my heart, make but thy graces ſhine,</l>
+                  <l>I ſhall to praiſe thee then be wholy thine.</l>
+               </q>
+            </div>
+            <div n="36" type="meditation">
+               <head>MED. 36.</head>
+               <p>THough Charitie begin at home, yet it muſt not end there, for no man is borne only for himſelfe; a man muſt not ſpend all his kindneſſe within doores, but muſt ſtretch out his hand to be bountifull to others, whoſe wants require his helpe, and whoſe penurie calls for ſomething of his abundance: As I muſt there<g ref="char:EOLhyphen"/>fore
+<pb n="54" facs="tcp:169871:30"/>alwayes provide for my owne, to avoide the brand of an Infidel; ſo, when it lies in my power, I will doe all good to others, that I may gaine the Character of charitable. I am not borne all for my ſelfe, but ſomewhat for others: for it is bet<g ref="char:EOLhyphen"/>ter not at all to live, then not to live to profit my Countrie.</p>
+            </div>
+            <div n="37" type="meditation">
+               <head>MED. 37.</head>
+               <p>HOw ſoone doth time paſſe a<g ref="char:EOLhyphen"/>way, the morning is gone, the noone is alreadie come, and it will not be long before the night over<g ref="char:EOLhyphen"/>take us; the work we have to doe, we muſt do quickly; before night come, wherein no man can worke: our life is that moment of time, which ſo ſoone paſſeth away, the morning of our youth is fled, before we well know we are borne, the noone of
+<pb n="55" facs="tcp:169871:30"/>our middle Age is alreadie come, and yet we are not prepared for that worke, which ought to have been done in our morning; the night of our old age is approaching, wherein the very ſtooping of our bodies to<g ref="char:EOLhyphen"/>wards the ground tels us, they are going to decay, and that now, that we would, we cannot take hold of that happy opportunitie ſo often before let ſlip by us. Lord make me alwayes readie to receive thee; The only way to ſweeten death, is al<g ref="char:EOLhyphen"/>wayes by having it in remembrance, and the beſt way to make a happy exit, is by alwayes meditating on my end.</p>
+            </div>
+            <div n="38" type="meditation">
+               <head>MED. 38.</head>
+               <p>VVHen I ſeriouſly conſider with my ſelfe, how vvith two or three glances of my eye, I am able
+<pb n="56" facs="tcp:169871:31"/>to runne over that moſt glorious fa<g ref="char:EOLhyphen"/>brick of the world in a card, which by perambulation, I was not able to compaſſe in many yeares, nay in my whole life; it drives me with admiration to the thought of the wonderfulneſſe of Gods workes, of which we may contemplate with eaſe, yet not be able in our whole life to attaine the perfect know<g ref="char:EOLhyphen"/>ledge of them; it makes me chide the folly of thoſe men, who con<g ref="char:EOLhyphen"/>temne other mens induſtrie and la<g ref="char:EOLhyphen"/>bour, and thinke by ſitting at home, and finding fault, to gaine Knovv<g ref="char:EOLhyphen"/>ledge of the myſtical ſecrets of na<g ref="char:EOLhyphen"/>ture, and the world: I will there<g ref="char:EOLhyphen"/>fore by praiſing their deeds, encou<g ref="char:EOLhyphen"/>rage, and prick forward others to the diſcoverie of that, which my too great ſloth hinders me from, and ſince I cannot doe it my ſelfe, I will praiſe God for thoſe which can doe it for mine and the generall
+<pb n="57" facs="tcp:169871:31"/>good. He only knows to prize right<g ref="char:EOLhyphen"/>ly, that underſtands the worth tru<g ref="char:EOLhyphen"/>ly.</p>
+            </div>
+            <div n="39" type="meditation">
+               <head>MED. 39.</head>
+               <p>I remember a ſtorie of one, vvho coming into the buriall place in <hi>Rome,</hi> where <hi>Caeſar</hi> lay, would needs know which was his head, a<g ref="char:EOLhyphen"/>mong many others that lay there; it was anſwered, that with no noſe, which he ſeeking, and ſeeing all want, not being ſatisfied, demand<g ref="char:EOLhyphen"/>ed yet a ſecond time, and then was told, that without the teeth, when he looking, and ſeeing all want, ſaid ſo, and ſo could not learne: vvhence then tends this great am<g ref="char:EOLhyphen"/>bition to aſpire, and thirſt of riches? Your greateſt honour in the grave cannot diſtinguiſh you from the ba<g ref="char:EOLhyphen"/>ſeſt beggar; <hi>Irus</hi> and <hi>Craeſus, Caeſar</hi>
+                  <pb n="58" facs="tcp:169871:32"/>and the meaneſt Roman ſouldier, the greateſt King, and the meaneſt Peaſant are all alike in death; the thought of this ſhould drive men from ſuch vaine thoughts. I will never ſpend all my time to gain that, which will at laſt doe me no help, but the chief of my care ſhall be, not that I may dye rich, but good.</p>
+            </div>
+            <div n="40" type="meditation">
+               <head>MED. 40.</head>
+               <p>WHat a little ſpark will kindle a great fire? What a little fire will ſet whole Cities in a flame? How ſoone will Napthe take fire? The tongue is this ſparke, greater provocations are the fire, and a ha<g ref="char:EOLhyphen"/>ſty perſon is the ſoone fire-taking Napthe; How carefull then ought we to be, leaſt our tongues by grea<g ref="char:EOLhyphen"/>ter provocations ſtrike that fire in haſtie perſons, which increaſing by
+<pb n="59" facs="tcp:169871:32"/>factions, may grow into a flame? I will take heed therefore of ſaying, or doing that, which may breed diſtractions, and I will endeavour to ſet men together, but not by the eares.</p>
+            </div>
+            <div n="41" type="meditation">
+               <head>MED. 41.</head>
+               <p>WHen divers men are aſſembled at a feaſt, I ſee that one can eate heartily, even enough to ſuf<g ref="char:EOLhyphen"/>fice nature, of that diſh, which an<g ref="char:EOLhyphen"/>other mans ſtomack would not di<g ref="char:EOLhyphen"/>geſt, which another mans palate could not reliſh. I can gather out of thoſe greateſt calamities that preſſe me, ſome hopes of Gods love to<g ref="char:EOLhyphen"/>wards me (for every ſonne he loves, he chaſtiſeth) and comfort my ſelfe in thoſe ſaddeſt afflictions, under which, perhaps another man may faint, nay even deſpaire; We
+<pb n="60" facs="tcp:169871:33"/>ſee that out of the ſame flower the laborious Bee can gather honey, and the venemous ſpider ſuck poyſon. I will comfort my ſelfe with this, that God will ſtrengthen to beare, yea, and overcome the afflictions he laies on me.</p>
+            </div>
+            <div n="42" type="meditation">
+               <head>MED. 42.</head>
+               <p>HOw great is the content of the righteous? when he is depart<g ref="char:EOLhyphen"/>ing out the world, he alwayes ac<g ref="char:EOLhyphen"/>counted himſelfe as a ſtranger, or pilgrim, and never ſet his minde on any thing in this world, knowing them to be altogether vaine, and unſatisfactory, he only now dying rejoyceth, that he is going to enjoy good: What traveller having paſ<g ref="char:EOLhyphen"/>ſed many dangerous wayes, re<g ref="char:EOLhyphen"/>joyceth not when he drawes neere to his Countrie? What pleaſures
+<pb n="61" facs="tcp:169871:33"/>have we in this world which draw<g ref="char:EOLhyphen"/>eth neer to an end every day, and which ſelleth unto us ſo deare thoſe pleaſures that we receive? I will never certainly brag of an ill mar<g ref="char:EOLhyphen"/>ket, but I will endeavour to mend my ſelfe: I will not be of their minde, who think nothing good but what is deare, but I will al<g ref="char:EOLhyphen"/>wayes ſeeke to have a pennie-worth for my pennie.</p>
+            </div>
+            <div n="43" type="meditation">
+               <head>MED. 43.</head>
+               <p>VVHat man is not content to de<g ref="char:EOLhyphen"/>part out of an old ruinous houſe? who is ſo ſenſeleſſe, and al<g ref="char:EOLhyphen"/>together neglectfull of his life and ſafetie, as to love conſtant fight<g ref="char:EOLhyphen"/>ings and battles? The world is an old decaying edifice, and what o<g ref="char:EOLhyphen"/>ther thing is our life, but a perpetuall battle and ſharp skirmiſh, wherein
+<pb n="62" facs="tcp:169871:34"/>we are one while hurt with envie, another while with ambition, and by and by with ſome other vice, beſides the ſudden onſets given up<g ref="char:EOLhyphen"/>on our bodies, by a thouſand ſorts of diſeaſes, and flouds of adverſi<g ref="char:EOLhyphen"/>ties upon our Spirit: Who then will not ſay with Saint <hi>Paul,</hi> I deſire to be diſſolved and to be with Chriſt?</p>
+            </div>
+            <div n="44" type="meditation">
+               <head>MED. 44.</head>
+               <p>HOw much that candle ſteeds me at night, which at noon day was of no uſe? yet not that now it hath more light, but that there is more need of it: every man will be my friend in the noone, the time of my proſperitie, but he is a true friend, that ſtickes to me, and helps me with his counſel in the night of my adverſitie, vvhen ill fortune hath caſt me downe, <hi>amicus certus
+<pb n="63" facs="tcp:169871:34"/>in re incerta cernitur,</hi> I will alvvayes love, and deſire friends; but a friend at a dead lift, is really <hi>alter idem.</hi>
+               </p>
+            </div>
+            <div n="45" type="meditation">
+               <head>MED. 45.</head>
+               <p>IN the ſame garden, where wee ſpend many houres to manure the ground, and ſet ſweet and vvholſome hearbs; We ſee how ſlowly yet they come forward for all our care; when ſtinking Hem<g ref="char:EOLhyphen"/>lock, and other filthie weedes of themſelves grow apace, nature be<g ref="char:EOLhyphen"/>ing to theſe a true nurſing mother, to the other but a ſtep dame; and thoſe very hearbs when grovvne up, if not carefully looked unto, and clenſed, will be choaked by the un<g ref="char:EOLhyphen"/>wholſomer weeds: with how great reluctancie, and how much labour is man, ſinfull man brought to follow good? when all perſwaſions, and in<g ref="char:EOLhyphen"/>treaties,
+<pb n="64" facs="tcp:169871:35"/>all menaces, and threats, all puniſhments and ſufferings, are ſcarce able to drive him one ſtep forward to good; yet the ſame man runnes with great willingneſſe, much vehemency and violence to evill; How hard is it for a man to forget ſinne, or to remember God? to ſinne is the note of a man, but to ſtand in, to perſevere in ſinne, is the Character of the Devill: though I cannot, as I am a man, refraine from all ſin, (for that is im<g ref="char:EOLhyphen"/>poſſible, the evill that I would not, that I doe) yet I will not be ſo much devill as to perſevere in it.</p>
+            </div>
+            <div n="46" type="meditation">
+               <head>MED. 46.</head>
+               <p>EVery ſtomack will not digeſt the ſame meate, for what is one mans food is another mans poy<g ref="char:EOLhyphen"/>ſon; the Conſcience is like our ſto<g ref="char:EOLhyphen"/>mack: for what I hold to be a ſin,
+<pb n="65" facs="tcp:169871:35"/>another perhaps will denie to be one; and as every mans palate will not alike reliſh all meates, nor his Conſcience abhorre all ſin; though he acknowledge theft, he will not doe the like for adulterie: though he abhorre Sacriledge, he can yet diſpence with Idolatrie: nay, haply he may ſtumble at a ſtraw, and leap over a blocke; he will ſtraine at a gnat, yet ſwallow a Camell; hee will not ſweare at all by any meanes, though in a lawfull cauſe; but for a fee, he will beare falſe witneſſe in any cauſe; the only way to avoide running into this <hi>Dilem<g ref="char:EOLhyphen"/>ma,</hi> will be, to make a Conſcience of all ſinnes: I will thinke no ſinne ſo little, as that I may willingly commit, but I will therefore endea<g ref="char:EOLhyphen"/>vour as neere as I can to ſhun all; <hi>Qui non ante cavet poſt dolebit.</hi>
+               </p>
+            </div>
+            <div n="47" type="meditation">
+               <pb n="66" facs="tcp:169871:36"/>
+               <head>MED. 47.</head>
+               <p>VVHat a various diſpoſition of minde and ſpeech doth eve<g ref="char:EOLhyphen"/>ry Climate affords its Inhabitants; and not only ſo, but the very ſame Clime ſtamps a ſeveral character of body on every particular Native thereof, inſomuch, that in almoſt the whole world, one ſhall never ſee two men alike in feature, and condition; nay, ſome are by nature ſo contrary to us, that they are made black, drawing our wonder after them whereſoever we ſee them, as having in them ſomewhat mon<g ref="char:EOLhyphen"/>ſtrous, <hi>rara avis in terris nigroque ſimillima Cygno.</hi> And though eve<g ref="char:EOLhyphen"/>ry man be thus bodied, and vizaged ſeverally, yet hath God made the heart of like forme in all, thereby ſhewing, that though we differ in all outward parts, yet our hearts
+<pb n="67" facs="tcp:169871:36"/>ſhould all agree, tend to one Cen<g ref="char:EOLhyphen"/>ter, <hi>viz.</hi> the prayſe of our Crea<g ref="char:EOLhyphen"/>tor; I vvill, ſince God hath given our hearts one forme, endeavour to reduce them to one affection, to doe the vvorke for which they were cre<g ref="char:EOLhyphen"/>ated: I will never raiſe ſeverall opi<g ref="char:EOLhyphen"/>nions in that, which God created but for one.</p>
+            </div>
+            <div n="48" type="meditation">
+               <head>MED. 48.</head>
+               <p>ALl manner of Creatures in their kinde reſemble one another, man only excepted, amongſt whom, tis even a wonder to finde two alike, the reaſon is, becauſe the mixture of the humours is different in every man. If then the humours ſeveral mixture be the cauſe of ſo much varietie, doth it not argue the mingler full both of povver, and wiſdome? Oh the depth of the
+<pb n="68" facs="tcp:169871:37"/>wiſdome and power of God, that can from ſuch things produce ſo great a varietie! Can we ever ſuffi<g ref="char:EOLhyphen"/>ciently prayſe the rich wiſdome of ſo mighty a Creator? Could we ſing eternal <hi>Allelujahs,</hi> all would be too litle.</p>
+               <q>
+                  <l>As from the humours divers mixtures grow</l>
+                  <l>A great varietie of features, ſo</l>
+                  <l>From thence a hearty thankfulneſs doth ſpring</l>
+                  <l>To our Creator, that's a mighty King.</l>
+                  <l>From wel mixt humours beſt conditions grow,</l>
+                  <l>From godly hearts the beſt thanksgivings flow.</l>
+               </q>
+            </div>
+            <div n="49" type="meditation">
+               <head>MED. 49.</head>
+               <p>I Am the way, the truth, and the life, ſaith our Saviour: All the while we live, we are travelling in Chriſt our way, to attain him to be our truth, and our life. What is the earth but a paſſage in a ſtrange land?
+<pb n="69" facs="tcp:169871:37"/>for Heaven is our Country; What is this world but a Sepulcher, ſince our departure out of it is an entrance into life? what is it to dwel here, but to be plunged in death, and what is our body but a priſon, ſince to be delivered out of it is Liberty? And if it be our chiefe happineſſe to enjoy the preſence of our God, is it not a miſery not to enjoy it? I will earneſtly deſire to finiſh my race, yet I will not take a deſperate courſe and murder my ſelfe; I can by ſteps and degrees eaſily and ſafe<g ref="char:EOLhyphen"/>ly deſcend from the top of that tower, whence, if I caſt my ſelfe headlong, I ſhould breake my neck; faire and ſoftly goes faire.</p>
+            </div>
+            <div n="50" type="meditation">
+               <head>MED. 50.</head>
+               <p>THe ſtrongeſt and beſt man be<g ref="char:EOLhyphen"/>gins to dye, before he well
+<pb n="70" facs="tcp:169871:38"/>knowes he lives, as ſoone as he is borne; and of the ſhortneſſe of mans life are given many reſemblances, but amongſt all, I thinke none doth <hi>re verâ</hi> more really preſent it to our view, then the greek word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies to breath, or live: it conſiſts but of two letters, but the one is the firſt, the other the laſt in the whole alphabet; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> holds forth to us our beginning, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> our certaine ending; he that begins with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and proceeds, muſt of neceſſitie come at length to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Let us not then ſpend that little time we have here, ſo, as if we ſhould never die: we have a long journey to goe, and yet little money, and leſſe time to ſpend; I will therefore take heed, that I ſpend not too pro<g ref="char:EOLhyphen"/>digally at firſt, leſt my wants make me fall ſhort of my journeyes end.</p>
+            </div>
+            <div n="51" type="meditation">
+               <pb n="71" facs="tcp:169871:38"/>
+               <head>MED. 51.</head>
+               <p>IT is the fooliſh ambition of too many, in this laſt and worſt Age of the world, either to be beſt, or not at all, &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they cannot attain the perfection of their deſires, they wil not deſire to be perfect; I am not of their mindes, but ſince I cannot doe as well as I would, I vvill doe as well as I may, and what I want in my actions, I vvill performe in my deſires. It was that pride that transformed <hi>Lucifer,</hi> once a glori<g ref="char:EOLhyphen"/>ous Angel, into a deviliſh fiend.</p>
+            </div>
+            <div n="52" type="meditation">
+               <head>MED. 52.</head>
+               <p>VVIth how pleaſing mirth, and yet mournefull melodie, doth the prettie Nightingal pleaſe the eare of the delighted hearer, while
+<pb n="72" facs="tcp:169871:39"/>with ſad Elegies ſhe condoles the wretched fate of her brother <hi>Itys,</hi> the hearing of whoſe mourning, ma<g ref="char:EOLhyphen"/>king me remember the former ſto<g ref="char:EOLhyphen"/>ry, drives me to the thought of my ovvne obſtinacie, that for grea<g ref="char:EOLhyphen"/>ter ſinnes cannot ſigh out one com<g ref="char:EOLhyphen"/>plaint, or ſhed one relenting or repenting teare; Oh the dulneſſe of humane nature, which the very birds, and other irrationall Crea<g ref="char:EOLhyphen"/>tures can reprehend! Let us there<g ref="char:EOLhyphen"/>fore alvvayes take care of doing that, which drawes downe judge<g ref="char:EOLhyphen"/>ments on us.</p>
+            </div>
+            <div n="53" type="meditation">
+               <head>MED. 53.</head>
+               <p>WHen in the beginning of the Spring I vvalke in the fields, and heare there the chirping me<g ref="char:EOLhyphen"/>lody of the little Nightingale, how doe her ſweet notes raviſh my ſenſes
+<pb n="73" facs="tcp:169871:39"/>vvith joy, vvhich vvhen I ſeriouſly have hearkned unto, and conſider one poor bird can ſo pleaſe, nay, even revive me, then think I, vvith how much greater delight ſhould I be vvrapt, vvhen I meditate on thoſe heavenly joyes, where every Singer is a King, and every Miniſter an An<g ref="char:EOLhyphen"/>gel, vvhere there is joy infinite, pleaſures everlaſting, and happineſs vvithout end, vvhere all things ever flouriſh, and perpetuall Anthems are chanted forth to him that ſits on the throne. Lord, make me but wor<g ref="char:EOLhyphen"/>thy to enjoy a place in that heaven<g ref="char:EOLhyphen"/>ly manſion, and receive me into thoſe everlaſting habitations, vvhere I may count it my greateſt happineſs to know, that my felicity is vvithout end.</p>
+            </div>
+            <div n="54" type="meditation">
+               <pb n="74" facs="tcp:169871:40"/>
+               <head>MED. 54.</head>
+               <p>A Happy content, is the only contented happineſs, and to a covetous man, the vvhole vvorld is not enough, though the leaſt part or tittle of it be too much; <hi>Eſau,</hi> though he confeſs he has much, yet deſires more; <hi>Iacob,</hi> though he has little, yet thinks it enough; deſire lifts up the poor man toget, the rich man though he have, yet is troubled to keep. I would not be therefore too poor, leſt I take the name of God in vain, and deſpair of his love to me; neither de<g ref="char:EOLhyphen"/>ſire to be too rich, leſt I ſay, vvho is the Lord, &amp; deny him; but make me able to ſay vvith <hi>Paul, In what condi<g ref="char:EOLhyphen"/>tion ſoever I am, I have learned there<g ref="char:EOLhyphen"/>with to be content.</hi>
+               </p>
+            </div>
+            <div n="55" type="meditation">
+               <pb n="75" facs="tcp:169871:40"/>
+               <head>MED. 55.</head>
+               <p>WHat traveller doth not pati<g ref="char:EOLhyphen"/>ently endure many weary ſteps, and hazard his perſon in many dangerous wayes, that he may at laſt come to his beloved Country? what man lives, that is not here, both a Stranger and a Pilgrim? we muſt go many ſteps by temptations, and run through the furnace of afflictions, be<g ref="char:EOLhyphen"/>fore we come to heaven. The way to <hi>Canaan</hi> is through the Wilderneſs; the way to heaven is narrow, and they that travell therein, muſt turn neither to the right or left hand, leſt they fall into the Deſart of Sin, and be torne by the bryers and thornes of Temptations and afflicti<g ref="char:EOLhyphen"/>ons. Shall we therefore deſpair? no, the Apoſtle ſaith, <hi>In patience poſſeſs you your ſouls.</hi> How ſore was <hi>David</hi> tried in <hi>Abſoloms</hi> Rebellions? yet
+<pb n="76" facs="tcp:169871:41"/>what a glorious <hi>exit</hi> from them was wrought by his patience. I will therefore patiently ſubmit to God in the bearing my own burthens, as knowing it will have a period: and I will not fret, but quietly wait, ho<g ref="char:EOLhyphen"/>ping to enjoy his promiſes of mer<g ref="char:EOLhyphen"/>cie; <hi>Da mihi in hâc vitâ patientiam, in alterâ indulgentiam.</hi>
+               </p>
+            </div>
+            <div n="56" type="meditation">
+               <head>MED. 56.</head>
+               <p>HOw great a happineſs is there in content, and how contented is that man that is happy? was not <hi>C. Fabritius</hi> happy in his content, that would rather, though poor, refuſe the <hi>Samnits</hi> gold, rather then be rich by diſhoneſty? Which were more happy, they, who in the deſtruction of their Country, ſought only the preſervation of their riches, or <hi>Byas</hi> bewailing its miſery, and being ſa<g ref="char:EOLhyphen"/>tisfied
+<pb n="77" facs="tcp:169871:41"/>vvith his <hi>Omnia mea mecum porto:</hi> It was a brave ſpeech, Next to <hi>Alexander</hi> that has all things, is <hi>Dio<g ref="char:EOLhyphen"/>genes,</hi> who contemnes all things, is content vvith all things. It is no marvell if we covet more, vvhen in all things of the vvorld there is no ſatisfaction; though vve may ſatisfy the deſires of our ſoul, yet we can<g ref="char:EOLhyphen"/>not ſatisfy the ſouls of our deſires.</p>
+               <q>
+                  <l>Felices animae! quibus haec cognoſcere cura eſt,</l>
+                  <l>In<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> domos ſuperas ſcandere cura fuit.</l>
+               </q>
+            </div>
+            <div n="57" type="meditation">
+               <head>MED. 57.</head>
+               <p>HOw great an uncertainty is there in the things of this world? and vvhen a man is at higheſt, he is in moſt danger of falling; <hi>Sejanus,</hi> as <hi>Seneca</hi> ſpeaks of him, preſently ſunk and fell in a day; and <hi>Bibulus,</hi> in the height of his joy, and in the midſt of
+<pb n="78" facs="tcp:169871:42"/>his triumph, vvas killed by a tile fal<g ref="char:EOLhyphen"/>ling upon him: vvho vvould ſpend himſelf in graſping that vvhich he is ſure he cannot hold! I vvill never grieve to loſe that vvhich I cannot keep; but I wil with the Philoſopher, vvalking in the Fair, thank God he hath made ſo many things vvhich I have no need of; he that chuſeth vanity, is lighter then vanity.</p>
+            </div>
+            <div n="58" type="meditation">
+               <head>MED. 58.</head>
+               <p>THe wicked vvorldling thinks it the greateſt judgement, to in<g ref="char:EOLhyphen"/>dure, and undergo affliction, when the righteous eſteem their condition ſaddeſt, if God ceaſe to be angry, and vvill chaſtiſe no more; for it is then vvith the ſoul, as with a ſhip, which when the Pilot leaves, no man will look after it, but all run from it, &amp; leave it, till at laſt it periſhes. I will
+<pb n="79" facs="tcp:169871:42"/>therefore ſay vvith the Wiſeman, Give me any plague, but the plague of the heart, and any anger of God, but this, that he vvill be angry no more.</p>
+            </div>
+            <div n="59" type="meditation">
+               <head>MED. 59.</head>
+               <p>GOd at firſt made man in his own Image, that he might glorifie him for his creation, and direct his ſteps to the following of true good<g ref="char:EOLhyphen"/>neſs; for truth is a patterne of that Image, in vvhich God at the firſt made man, and is as a girdle of many links, whereby we may climb to true happineſs; the firſt of which is con<g ref="char:EOLhyphen"/>formity, when we apprehend him as really he is: another is, when we ſpeak according to what we know, and do according as we ſpeak. Lord, ſince thou createdſt us all here to end, make us conſider, and always
+<pb n="80" facs="tcp:169871:43"/>remember the end of our creation, and not as it were emulous of the Serpents curſe, to cleave with our belly to the ground: as we have our being from God, ſo we have our welbeing in God.</p>
+            </div>
+            <div n="60" type="meditation">
+               <head>MED. 60.</head>
+               <p>VVHat have I done to this an<g ref="char:EOLhyphen"/>gry little dog, that he thus flies at my ſhins, &amp; follows me baul<g ref="char:EOLhyphen"/>ling, ready at every ſtep I take to bite me, I neither chid, or ſtruck, or offe<g ref="char:EOLhyphen"/>red to do any thing elſe at him: thus do I ſee how cauſeleſly an honeſt man may be perſecuted, and how every pedantique fellow vvill follow him, not only with mocks and flouts, but bitter railings, and malicious falſe ac<g ref="char:EOLhyphen"/>cuſations; what Chriſtian will de<g ref="char:EOLhyphen"/>ſire to be better eſteemed then his Saviour, was he not ſo uſed? vvho
+<pb n="81" facs="tcp:169871:43"/>had greater temptations in this kinde then <hi>David,</hi> a man after Gods own heart? Lord direct me but in thy way, I ſhall not regard then any per<g ref="char:EOLhyphen"/>ſecution; it ſhall never trouble me, though I be perſecuted, if it be un<g ref="char:EOLhyphen"/>deſervedly. I had rather ſuffer per<g ref="char:EOLhyphen"/>ſecution, and not deſerve, then de<g ref="char:EOLhyphen"/>ſerve, and not ſuffer it.</p>
+            </div>
+            <div n="61" type="meditation">
+               <head>MED. 61.</head>
+               <p>WHat fruits could the parched ground bring forth, if not moiſt<g ref="char:EOLhyphen"/>ned with ſeaſonable raine? what ſweet and fertile ſhowers doth the heaven ſend down to refreſh its drough, and enliven the longing hopes of the laborious Husband<g ref="char:EOLhyphen"/>man? How barren would that ſoul be, where grace through the eye cannot for former ſins drive out one repentant teare? the ſin of our ſoul
+<pb n="82" facs="tcp:169871:44"/>is the ſoul of our ſin, and vvhen our eyes cannot diſſolve themſelves into rivers of teares, our hearts congeale as hard as rocks of Adamant; yet that Adamant can be broken with vineger, and teares of repen<g ref="char:EOLhyphen"/>pentance will waſh away the hard<g ref="char:EOLhyphen"/>neſs of our ſtony heart.</p>
+               <q>
+                  <l>Lord grant me grace to turne away ſins ſmart,</l>
+                  <l>And make my teares ſoften my flinty heart.</l>
+               </q>
+            </div>
+            <div n="62" type="meditation">
+               <head>MED. 62.</head>
+               <p>THe poor Publican vvas ſooner heard, that ſaid little, and ſtood afar off, then the proud-loud-boa<g ref="char:EOLhyphen"/>ſting Phariſee: 'tis not the multi<g ref="char:EOLhyphen"/>tude of our words, but the zeal of our hearts that God affects: the righteous man in the midſt of trouble can fly to God by his prayer, when the abundant proſperity of the wicked makes him guilty
+<pb n="83" facs="tcp:169871:44"/>both of neglect and infidelity: the prayer of the heart, is the heart of prayer, and where my faith fails, my prayer falls; our infidelity ſtops Gods eare, and makes us that we cannot heare vvhen he calls. I will be humble in prayer, but not feare<g ref="char:EOLhyphen"/>full, <hi>Qui timide rogat, docet negare.</hi>
+               </p>
+            </div>
+            <div n="63" type="meditation">
+               <head>MED. 63.</head>
+               <p>THe ſacrifice of the wicked is an abomination to the Lord, when the prayer of the righteous is as a ſweet ſmelling odour. <hi>Zeno</hi> ſayling vvith a company of lewd Athieſts, there ſuddenly aroſe ſuch a ſtorm; as drove the moſt impious among them to his prayer; peace; quoth he, leſt the gods hearing, caſt us a<g ref="char:EOLhyphen"/>way, becauſe you are here: 'tis our iniquities that ſeparate between us and our God: I will never therefore
+<pb n="84" facs="tcp:169871:45"/>abſent my ſelf from God by prayer, ſo long, as that vvhen I come, I ſhould be taken as a ſtranger; nor ſhall the burden of my ſins ſo clog me down, but that I will fly to my God.</p>
+            </div>
+            <div n="64" type="meditation">
+               <head>MED. 64.</head>
+               <p>IN the midſt of extremities, to fly to Chriſt, is the ſign of a true Chri<g ref="char:EOLhyphen"/>ſtian faith; to hope and reſt on God, is the beſt muniment. We reade, our Saviour ſlept in the height of a ſtorm; a quiet conſcience is a bed of Downe, yet is he not ſo ſe<g ref="char:EOLhyphen"/>cure in himſelf, but that he can ſym<g ref="char:EOLhyphen"/>pathiſe vvith his diſciples: ſhall vve ſay, his ſuffering them to ingeminate their calls, vvas either becauſe of a deafneſs in his eare, or dulneſs in his heart? O no, he heard them at firſt, but he loved to heare them again, but they no ſooner ſpeak, we periſh,
+<pb n="85" facs="tcp:169871:45"/>but he awakes; me thinks I ſee our Saviour ſtartle at that word: thus do we ſee the gentle prayer of a diſciple is ſooner heard in heaven, then all the thundring of the creature, and that Chriſt that ſleepes in a ſtorm, wakens with a prayer.</p>
+               <q>
+                  <l>Lord teach me but to pray, ſo ſhall no ſea</l>
+                  <l>Of woe ore whelm me, for Ile fly to thee.</l>
+               </q>
+            </div>
+            <div n="65" type="meditation">
+               <head>MED. 65.</head>
+               <p>HAve you ſeen the rugged Oce<g ref="char:EOLhyphen"/>an diſturbed with the impetu<g ref="char:EOLhyphen"/>ous blaſts of furious windes, how it curles its angred forehead, with threatning vvaves, affrighting with the terrour of death, the moſt skilfull Pilot, and valianteſt Navigator that ever ſayled on the Maine? but then to remember the ſtorm our Saviour ſtilled, comforts them, and tells us, that Gods Juſtice never failes, it al<g ref="char:EOLhyphen"/>alwayes
+<pb n="86" facs="tcp:169871:46"/>meets with the ringleaders in any ſedition; neither doe the fol<g ref="char:EOLhyphen"/>lowers eſcape unpuniſhed: The windes reſemble the leaders, the waters like the common people, are of themſelves quiet, but once moved, <hi>montes volvuntur aquarum.</hi> I will never raiſe ſuch a ſpirit, which I am not able to allay, leſt at laſt it pull my houſe over my head.</p>
+            </div>
+            <div n="66" type="meditation">
+               <head>MED. 66.</head>
+               <p>WHen a ſudden ſtorme ariſes, how faſt will the harmeleſſe ſheep runne to the next brambles, where thinking to ſave her ſelfe by its ſhelter from the fury of the ſtorme, it is deceived into a great<g ref="char:EOLhyphen"/>er ill, and returnes with ſome loſſe of its fleece; juſt ſuch thinke I, many times proves the friendſhip of ſome ingrateful, and ſelf-ſeeking
+<pb n="87" facs="tcp:169871:46"/>friends, to whom, when driven by the adverſe blaſts of a contrary fortune, I retire my ſelfe for help and comfort, they either altogether caſt me off, or prey upon my ne<g ref="char:EOLhyphen"/>ceſſitie, ſo that ſuch help proves more fatall to me then my worſt calamitie. I may patiently beare all outward miſeries, and though I am wet to the skin, I can drie my ſelfe againe, but when my profeſ<g ref="char:EOLhyphen"/>ſed friend, inſtead of love, works my woe, this, this cuts me to the heart: <hi>Brutus</hi> one ſtroke went neer<g ref="char:EOLhyphen"/>er <hi>Caeſars</hi> heart, then the ſtabs of all his other enemies.</p>
+            </div>
+            <div n="67" type="meditation">
+               <head>MED. 67.</head>
+               <p>WHat a beaſtly drunkenneſſe will ſoone ſurprize that man that ſits all day, and drinkes nought but wine, when the ſame moderately
+<pb n="88" facs="tcp:169871:47"/>uſed, is both pleaſant and good. Proſperitie is this wine, a conſtant enjoyment whereof might caſt into a ſurfeit of ſinne; God therefore mingles it with affliction, to keepe us ſober; Shall I diſlike the phyſicke, becauſe it pleaſes not my palate? I care not whether it be toothſome, ſo it be wholſome: we would have it to cure, not to pleaſe us: give me ſo much proſperity, as may make me mindeful to returne, and caſt me not downe ſo much, as to make me deſpaire of thy love: I may as well ſtarve as ſurfeit.</p>
+            </div>
+            <div n="68" type="meditation">
+               <head>MED. 68.</head>
+               <p>AS the Hart panteth after the ri<g ref="char:EOLhyphen"/>vers of water, ſo longs my ſoule after thee oh God. It vvould be an eaſie matter to come to hea<g ref="char:EOLhyphen"/>ven, if outward ſhewes and profeſ<g ref="char:EOLhyphen"/>ſions
+<pb n="89" facs="tcp:169871:47"/>would bring us thither, there muſt be a hearty deſire, an earneſt longing, and a conſtant perſeve<g ref="char:EOLhyphen"/>rance therein; we will run through all difficulties, to attaine what we long for, what we deſire: hence then is our Love to God knovvn to be hearty, if for his ſake, we make light of the world, contemne affli<g ref="char:EOLhyphen"/>ctions, and count all things but droſſe in compariſon of him. I will not ſerve God, becauſe others doe ſo, but becauſe it is my duty.</p>
+            </div>
+            <div n="69" type="meditation">
+               <head>MED. 69.</head>
+               <p>AM I the firſt whom a falſe re<g ref="char:EOLhyphen"/>port hath ſlandered, or doe I thinke I ſhall be the laſt? Why then doe I ſo trouble and vexe my ſelfe? It is the commoneſt thing of a thouſand, to be told of our fail<g ref="char:EOLhyphen"/>ings, (though what we doe well, is
+<pb n="90" facs="tcp:169871:48"/>huſht up in oblivion) and can any man think to ſinne, and not heare of it? yea, but the falſeneſſe of the thing laid to my charge, is the cauſe of my vexation, they laid to my charge things that I never heard of: but ſhall I expect better meaſure here, then was dealt to our Savi<g ref="char:EOLhyphen"/>our? was not he more maliciouſly accuſed? but this thing will make me take heed to my wayes, I will never ſay, or doe any thing that I would be aſhamed to let all the world ſee and heare. The only way to deterre us from ſinning, is, to ſay, this I am about to act, is ſin, and therefore cannot be ſecret.</p>
+            </div>
+            <div n="70" type="meditation">
+               <head>MED. 70.</head>
+               <p>BLeſſed are the Peace makers: how happy then is he that com<g ref="char:EOLhyphen"/>poſes and allaies diviſions? the greatneſſe of the bleſſing is never
+<pb n="91" facs="tcp:169871:48"/>rightly knovvn, but by the good<g ref="char:EOLhyphen"/>neſſe; that Marriner can never tru<g ref="char:EOLhyphen"/>ly prize a calme, that hath not been in a ſtorme; in a calme the Sea is the skies looking-glaſſe, it is the ſtil muſick of the world. Peace is the vigour of the Law, the ho<g ref="char:EOLhyphen"/>neſt mans beſt patent, the harmo<g ref="char:EOLhyphen"/>ny of the ſoule, the richeſt casket of a Kings Crown; where Peace is baniſhed, confuſion preſently ar<g ref="char:EOLhyphen"/>rives: If Peace be in our wals, then plenteouſneſſe will be in our Pa<g ref="char:EOLhyphen"/>laces. The Goſpel is the word of peace, it is the grand bleſſing of our heavenly Father; <hi>Oſculum ſpi<g ref="char:EOLhyphen"/>ritus ſancti:</hi> tis like the Dove in the Arke, alway with the Olive branch of plenty in its mouth; tis the brides wedding Ring, and the Bride<g ref="char:EOLhyphen"/>groomes garment; Oh heavenly happineſſe, wherein we imitate the harmony of the Communion of Saints! Oh thou who giveſt every
+<pb n="92" facs="tcp:169871:49"/>good and perfect gift, ſend us this Peace! I may ſay of it, as one of ingratitude, <hi>Si ingratum dixeris, om<g ref="char:EOLhyphen"/>nia dixeris:</hi> give us this bleſſing, and we have an Epitome, a com<g ref="char:EOLhyphen"/>pendium of all bleſſings. Oh God ſend us thy peace, then ſhall we en<g ref="char:EOLhyphen"/>joy thee, the God of Peace.</p>
+            </div>
+            <div n="71" type="meditation">
+               <head>MED. 71.</head>
+               <p>WOuld any man deſire to be hap<g ref="char:EOLhyphen"/>py? ſeeke it then in the ha<g ref="char:EOLhyphen"/>ven of happineſſe; a perpetual ſtu<g ref="char:EOLhyphen"/>dy and labour in Gods Law, will at length worke out a perpetual bliſſe. The Saints felicity carries with it perpetuity, <hi>in rebus Coeleſti<g ref="char:EOLhyphen"/>bus non conſideramus tempus,</hi> this fleſh can have nothing in it but what is periſhing, but the robe of glory ſhall never weare out, or ſuffer a conſumption; the ſtate of perfected
+<pb n="93" facs="tcp:169871:49"/>bliſſe ſhall never be ſtirred, <hi>ſemper ſatiaberis, &amp; nunquam ſatiaberis,</hi> I will never be ſo impious, to make ſalvati<g ref="char:EOLhyphen"/>on an uncertaine demiſe, and in my greateſt fainting fit, I will comfort my ſelfe with this, that there is a ſtate of life to hold me up; I will ſtock it in heaven, where I ſhal never need fear of being robbed; Saints, though they may have ſome tem<g ref="char:EOLhyphen"/>porary faults, yet they have a cer<g ref="char:EOLhyphen"/>taine bliſſe, <hi>peccent Sancti, non pere<g ref="char:EOLhyphen"/>unt.</hi>
+               </p>
+            </div>
+            <div n="72" type="meditation">
+               <head>MED. 72.</head>
+               <p>WIth vvhat earneſt, yet hum<g ref="char:EOLhyphen"/>ble expreſſions, doth this poore beggar follow, intreating the extent of my charity in the ſmall gift of a penny, which when he hath received, how many thanks doth he returne me; vvhen my
+<pb n="94" facs="tcp:169871:50"/>whole eſtate will not ſerve a griping uſurer; Oh God! the leaſt of thy bleſſings are more then I deſerve, make me thankful to thee, that whatever I doe may be to thy glory, make me pray earneſtly, yet humbly, that ſo by thy grace, I may be freed from the pawes of that hungry Lion, whom nothing will ſatisfie, but the eternal deſtru<g ref="char:EOLhyphen"/>ction of my ſoule.</p>
+            </div>
+            <div n="73" type="meditation">
+               <head>MED. 73.</head>
+               <p>WIth hovv much glory doth the Sun ariſe, darting forth com<g ref="char:EOLhyphen"/>fort with his ſhining beams, not one ambitious cloud daring to intercept our joy; yet ſee how ſoone after his glittering rayes are overſpread vvith dusky clouds, that dimme his heavenly light, and rob us of the joyes we ſhould receive from his
+<pb n="95" facs="tcp:169871:50"/>great luſtre: Such thinke I then are we, when with more curious thought I view the fleeting courſe of gladſome youth, how ſoone his flower decayes; If in the Sun<g ref="char:EOLhyphen"/>ſhine of our pleaſant Spring, we doe not, are not good, how on a ſud<g ref="char:EOLhyphen"/>den are we hindred from our aime, being overclouded with an older age; for if we thus neglect our pri<g ref="char:EOLhyphen"/>mer yeares, and ſuffer youth fruit<g ref="char:EOLhyphen"/>leſſe to fade away, wherefore then doe we live, or were we borne? I will not therefore neglect my <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the preſent time, but I will doe good vvhile I may, for I know not how ſoone the clouds of age, or afflictions may let me.</p>
+            </div>
+            <div n="74" type="meditation">
+               <head>MED. 47.</head>
+               <p>OUr dayes flie avvay like a ſha<g ref="char:EOLhyphen"/>dow; ſo ſoone paſſeth it away,
+<pb n="96" facs="tcp:169871:51"/>and vve are gone, ſaith the Pſal<g ref="char:EOLhyphen"/>miſt: Can any man thinke his plea<g ref="char:EOLhyphen"/>ſures here are permanent, or hope his life will endure for ever, be<g ref="char:EOLhyphen"/>cauſe a little happy? obſerve we but how ſtealingly death ſteps in, <hi>tacito pede,</hi> vvhen we thinke our joyes are ſureſt; no ranſome, not the whole world is ſufficient to re<g ref="char:EOLhyphen"/>deeme one day; if worthy acts or valour were ſufficient, he then had yet remained alive, vvhoſe twelve labours yet record his fame with honour. And that great <hi>Alexander,</hi> vvho with but a handfull of men o<g ref="char:EOLhyphen"/>verthrew the Perſian pride, and tooke the Crovvne from off its Mo<g ref="char:EOLhyphen"/>narchs head: but their fall ſhewes our life is but a flower, grovving to day, perhaps nurſed by the Suns warmth, and refreſht vvith colder dew, yet plucked ere night from off its ſtalke, and vvithered.</p>
+               <q>
+                  <l>What man is he who can put by deaths dart,</l>
+                  <l>If levell'd once, and ſhot againſt his heart?</l>
+               </q>
+            </div>
+            <div n="75" type="meditation">
+               <pb n="97" facs="tcp:169871:51"/>
+               <head>MED. 75.</head>
+               <p>SEe you that duſt vvith which the ſportive winde does play the wan<g ref="char:EOLhyphen"/>ton? now framing it in curles; anon diſperſeth it abroad, throwing it now here, now there, it is perhaps the remaining reliques of ſome fallen beauty: See, even in death it hath not loſt its nature, but as before ſo ſtill, does fly about to trouble our vveaker ſight. O inſolent, yet emp<g ref="char:EOLhyphen"/>ty boaſt of fleſh! though we be en<g ref="char:EOLhyphen"/>nobled with the greater honor, &amp; ſet on the top of Fortunes wheel in our life, though vve leave heires behinde to maintain our name, vvhich vvill vvith everlaſting monuments (as much as in them lies) eternize our dying, nay, dead memory, yet vvill death betray for all theſe things our duſt to every blaſt! Alas poor re<g ref="char:EOLhyphen"/>lique of our glory, vvilt thou ſtill
+<pb n="98" facs="tcp:169871:52"/>ſwell with glorious ambition; or ra<g ref="char:EOLhyphen"/>ther is it not to mock weake, yet proud man, vvho riſes ſtraight a<g ref="char:EOLhyphen"/>bove his center by the meaneſt blaſt of common praiſe, ready to think himſelf now vveak and falling, ſtable, yea even immortall.</p>
+               <q>
+                  <l>Leave off this pride fraile man, for all thy luſt</l>
+                  <l>To beauti's madneſs, for it courts but duſt.</l>
+               </q>
+            </div>
+            <div n="76" type="meditation">
+               <head>MED. 76.</head>
+               <p>EXpectation in a weak and vveari<g ref="char:EOLhyphen"/>ed minde, makes an evill greater, and a good leſs, but the conſtantly reſolved minde diverts an evil, being come, and makes a future good preſent before it come. I expect then the beſt, I know the vvorſt; vvorſt and beſt vvill arrive both at their end.</p>
+            </div>
+            <div n="77" type="meditation">
+               <pb n="99" facs="tcp:169871:52"/>
+               <head>MED. 77.</head>
+               <p>AS I vvalked about, hoping to pleaſe my wandring ſight vvith pleaſing objects, I hapned to come into a place ſeparated for the buriall of the dead; vvhich vvhen I had en<g ref="char:EOLhyphen"/>tred, inſtead of my hoped and deſi<g ref="char:EOLhyphen"/>red pleaſures, I ſaw nothing but ſigns of mortality, here lay skulls halfe covered with haire, there bones almoſt turned to their firſt mat<g ref="char:EOLhyphen"/>ter, duſt; whence I drevv this Concluſion, that in all our de<g ref="char:EOLhyphen"/>lights and pleaſures, vve ought ſtill to remember that we are mortall; no man can promiſe himſelf life for a moment, for there is nothing ſo mean but may prove his executioner, every tile from the houſe may fall down on our heads and deſtroy us; every diſeaſe, though ſmall, every element though vveak, and every creature, though contemptible, can
+<pb n="110" facs="tcp:169871:53"/>inflict on us the puniſhment and ven<g ref="char:EOLhyphen"/>geance of a God angry with us for our crying enormities: <hi>aut ubi mors non eſt?</hi> how ought we then to live mong all theſe dangers, every day prepare our ſelves that we be al<g ref="char:EOLhyphen"/>wayes ready, and may not be taken unawares? we ſhould with the holy Father, have this ſentence always ſounding in our ears, <hi>Surge, &amp; veni ad judicium,</hi> Ariſe, and come to judgement: but we are ſo forget<g ref="char:EOLhyphen"/>full of all things that concern our good, that we had need to have one every morning to come to our chamber doore (like the Emperour of <hi>Rome</hi>) and ſay, Remember there is a judgement, to which thou mayſt be called this day, therefore prepare thy ſelf.</p>
+            </div>
+            <div n="78" type="meditation">
+               <pb n="101" facs="tcp:169871:53"/>
+               <head>MED. 78.</head>
+               <p>IF in this life only we had hope in Chriſt, ſaith <hi>Paul,</hi> we were of all men the moſt miſerable: through how great afflictions, how many tri<g ref="char:EOLhyphen"/>bulatious do the righteous wade, while they ſee their wicked enemies live at eaſe and proſper? 'twere e<g ref="char:EOLhyphen"/>nough to ſtagger their faith, did they not look higher for their reward; they are comforted with this, Since thou in thy life time hadſt thy good things, but he his bad; therefore now is he comforted, and thou art tormented: I am glad God will ſo farre own me for his childe as to chaſtiſe me; and I will with joy ſub<g ref="char:EOLhyphen"/>mit to his puniſhment, becauſe 'tis fa<g ref="char:EOLhyphen"/>therly to correct, and not to deſtroy; and though the wicked do joy in his deferred puniſhment, yet let them know, <hi>Quod defertur, non aufertur,</hi>
+                  <pb n="102" facs="tcp:169871:54"/>though God has leaden feet, yet he has iron hands, he will at laſt ſtrike home, <hi>Sera venit, ſed certa venit vin<g ref="char:EOLhyphen"/>dicta deorum.</hi>
+               </p>
+            </div>
+            <div n="79" type="meditation">
+               <head>MED. 79.</head>
+               <p>IT is a rule by obſervation true, that they that feare not to be thought faulty, vvill neither be a<g ref="char:EOLhyphen"/>fraid to commit the fault, nor be aſhamed to be ſeen after the fact, they will braze their face againſt ſhame, and ſteele it againſt the bitter taunts of enraged truth; as little fea<g ref="char:EOLhyphen"/>ring the one, as loving the other, but drawing down vengeance on their reduplicated ſins. I will do my endeavour not to ſeeme, much more not to be faulty, and I will never glory in my ſhame, leſt at laſt I be aſhamed of my glory.</p>
+            </div>
+            <div n="80" type="meditation">
+               <pb n="103" facs="tcp:169871:54"/>
+               <head>MED. 80.</head>
+               <p>GOod duties are baſe and trou<g ref="char:EOLhyphen"/>bleſome to wicked mindes, whiles even violences of evill are pleaſant, eſpecially, when by a con<g ref="char:EOLhyphen"/>tinued perſeverance, ſin is perpetra<g ref="char:EOLhyphen"/>ted with a feared conſcience, yet that very conſcience, though it may be without remorſe; yet is it not without horor, for there is no wicked man to whom God ſpeaks not, if not to his eare, yet to his heart; and if the ſame God, who in good ac<g ref="char:EOLhyphen"/>cepts the will for the deed, con<g ref="char:EOLhyphen"/>demnes the will for the deed in e<g ref="char:EOLhyphen"/>vill; with what a ſevere execution of Juſtice will he puniſh them, who commit ſin with greedineſs? He that cares not for the act of his ſin, ſhall care for the ſmart of his puniſhment, for the iſſue of ſin is a thouſand
+<pb n="104" facs="tcp:169871:55"/>times more horrible then the act is pleaſant.</p>
+            </div>
+            <div n="81" type="meditation">
+               <head>MED. 81.</head>
+               <p>I Can never reade that portion of Scripture, vvhere <hi>Iacob</hi> cunningly gaines the bleſſing from his brother <hi>Eſau,</hi> and his vaine ſeeking, and fruitleſs begging it even with teares; but it drives me to think, how juſt might God be to caſt us off, who ſin with ſo high a hand againſt him; if vvith <hi>Eſau</hi> we ſell our birthright for a meſſe of pottage, if we forfeit, and that willingly, our everlaſting hea<g ref="char:EOLhyphen"/>venly inheritance for the deceitfull momentary pleaſures of ſin, it is but juſt with God to caſt us off as illegi<g ref="char:EOLhyphen"/>timate: I will not therefore hunt af<g ref="char:EOLhyphen"/>ter worldly pleaſures ſo long with <hi>Eſau,</hi> as to forfeit my bleſſing for my long ſtay; ere vengeance begin,
+<pb n="105" facs="tcp:169871:55"/>repennance is ſeaſonable, but if judgement be once gone out, we cry too late: while the Goſpel ſoli<g ref="char:EOLhyphen"/>cites us, the doores of mercy are o<g ref="char:EOLhyphen"/>pen, but if we neglect the time of grace, in vaine ſhall we ſeek it with teares: God holds it no mercy to pity the obſtinate.</p>
+            </div>
+            <div n="82" type="meditation">
+               <head>MED. 82.</head>
+               <p>WHy art ſo heavy, O my ſoul, and why are thou ſo diſcon<g ref="char:EOLhyphen"/>tented within me? ſtill truſt in God, &amp;c. It is a part of Gods childrens portion to ſuffer affliction, and we could not be currant coyne in Gods Kingdom, unleſs we be throughly purified in the fire of diſtreſſes: It is not with God as with man, to be paid your wages as ſoone as your work is done, no, true ſpirituall com<g ref="char:EOLhyphen"/>forts are commonly late and ſud<g ref="char:EOLhyphen"/>den;
+<pb n="106" facs="tcp:169871:56"/>the Angel of the Lord neither interrupts, or forbids <hi>Abraham</hi> in his Sacrifice, till the knife is up, nay even ready to fall downe on the throate of <hi>Iſaac:</hi> Gods charges are many times harſh in the beginnings, and proceeding, but in the conclu<g ref="char:EOLhyphen"/>ſion alwayes comfortable: I will therefore in all my affliction whol<g ref="char:EOLhyphen"/>ly relye upon God by faith, ſo will he make my recompence glorious, and ſend me a welcome deliverance out of all my trouble.</p>
+            </div>
+            <div n="83" type="meditation">
+               <head>MED. 83.</head>
+               <p>IT is in the ſoule, as it fares with the body, wherein a wound in it ſelfe, though great, if timely helps be adminiſtred, is eaſily cu<g ref="char:EOLhyphen"/>red, which let alone to feſter, and rankle, may not only endanger a limbe, but the whole body: ſinne
+<pb n="107" facs="tcp:169871:56"/>at the firſt is eaſily rooted out, but if once it proceed in a cuſtome of ſinning, if ſinne grow exceeding ſinfull, then woe is me, who ſhall deliver me? I will endeavour to keep this river within his bankes, leſt it drown me in its deluge; as I will feare each little vvound for mortall, and ſo ſeek a timely cure; ſo I will take heed of all ſinnes, and account none little, becauſe my Saviour dyed for the leaſt; who willingly and knowingly doth the leaſt, vvill feareleſſely commit the greateſt.</p>
+            </div>
+            <div n="84" type="meditation">
+               <head>MED. 84.</head>
+               <p>VVHen I ſee two Game-Cocks fighting in the pit, and each ſtriving by the death of the other to remaine ſole Conquerer, I cannot but take notice of the vaine ſtrifes
+<pb n="108" facs="tcp:169871:57"/>of great men, who without any cauſe at all ſeek the deſtruction of each other, endeavouring to make great the plumes of his owne am<g ref="char:EOLhyphen"/>bition, with the feathers of his ad<g ref="char:EOLhyphen"/>verſaries downfall, as if it were glo<g ref="char:EOLhyphen"/>ry enough to enrich himſelfe by o<g ref="char:EOLhyphen"/>thers ruines, I am not of that minde: but if I ſtrive to be great, I will deſire to be good, for great good<g ref="char:EOLhyphen"/>neſſe is the beſt greatneſſe, and I will not with Aeſops Daw trick up my pride with ſtollen feathers, leaſt I be ſerved like her, that when eve<g ref="char:EOLhyphen"/>ry man takes his owne, I appeare not only naked, but ridiculous.</p>
+            </div>
+            <div n="85" type="meditation">
+               <head>MED. 85.</head>
+               <p>HOw great pains vvill we take, &amp; what hardſhip wil we undergo, to attaine that which we love? <hi>Jacob</hi> without grudging is content to pay
+<pb n="109" facs="tcp:169871:57"/>14. yeares ſervice for <hi>Rachel;</hi> we ſee the pleaſures that God bleſſes his ovvne children with are not eaſily attained; yet ſee, though vve know vice is its own puniſhment, and ver<g ref="char:EOLhyphen"/>tue carries her reward with her ſelf, though we know the fruitfull re<g ref="char:EOLhyphen"/>compence of vertue, and the bar<g ref="char:EOLhyphen"/>ren uglineſſe of vice, yet is barren<g ref="char:EOLhyphen"/>neſſe in the one, preferred before fertility in the other; I would ra<g ref="char:EOLhyphen"/>ther chuſe vertue, though accom<g ref="char:EOLhyphen"/>panied with tribulation, then vice clad in Scarlet, and faring delici<g ref="char:EOLhyphen"/>ouſly every day; though I deſire to enjoy pleaſures, yet ſhall it alwayes be with honeſt vertue, but I will never ſeek to buy them with the danger of my ſoule, <hi>nocet empta do<g ref="char:EOLhyphen"/>lore voluptas.</hi>
+               </p>
+            </div>
+            <div n="86" type="meditation">
+               <pb n="110" facs="tcp:169871:58"/>
+               <head>MED. 86.</head>
+               <p>AS ſiniſter reſpects have oft<g ref="char:EOLhyphen"/>times dravvne weak goodneſſe to diſguiſe it ſelfe, even with ſinnes, ſo <hi>vitia plerunque virtutis, ſpecies in<g ref="char:EOLhyphen"/>duunt,</hi> vices many times ſtrive to maske them with the name of ver<g ref="char:EOLhyphen"/>tue; vvhat farre fetched arguments will the covetous man produce, and all to prove his gaines, (or rather extortion) lawfull, and when his proofes are all confuted, he will re<g ref="char:EOLhyphen"/>tire himſelfe to this, that 'tis an honeſt way to get his living; Thus with a ſpecious viſor, doth he a<g ref="char:EOLhyphen"/>dorne his crime, and ſinnes ſecurely, not having one relenting thought, but runnes on head-long to perditi<g ref="char:EOLhyphen"/>on; I will never ſeek to ſcrape up ſo many riches, as that my wealth may prove more irkeſome to me then my need, or that I ſhould
+<pb n="111" facs="tcp:169871:58"/>feare, God meanes to puniſh me more in my ſuperfluity of money, then in the want; I will be jealous of my gaine, and more feare then deſire abundance.</p>
+            </div>
+            <div n="87" type="meditation">
+               <head>MED. 87.</head>
+               <p>I Can never ſee a flatterer framing all his actions, and geſtures, ac<g ref="char:EOLhyphen"/>cording to the humours of whom he flatters, but I thinke the <hi>Polypus</hi> a fit reſembler of ſuch a perſon, who changes his colours, as often as the various objects he touches doe; Art thou ſick, ſo will he counterfeit him<g ref="char:EOLhyphen"/>ſelfe? art thou prodigall, he will tell thee, it beſeemes thy birth? whatever thou doſt or ſayeſt, there<g ref="char:EOLhyphen"/>after will he frame both his words &amp; actions, till he hath ſo far compaſ<g ref="char:EOLhyphen"/>ſed his own ends, as thou muſt either truſt him, or he will undoe thee; I
+<pb n="112" facs="tcp:169871:59"/>will not then looke altogether at the outſide of a faire word, nor truſt too much to the ſubtle daubings of a cunning flatterer, for outward ap<g ref="char:EOLhyphen"/>pearances are but deceitfull guides to our judgement, and they are worthy to be deceived, that value a flatterer above a true friend; a ſmiling malice is moſt deadly, and hatred doth moſt rankle the heart, when it is kept in, and diſſembled.</p>
+            </div>
+            <div n="88" type="meditation">
+               <head>MED. 88.</head>
+               <p>TO ſee a beaſt have any one part of a man, produces in us not only a great, but a juſt admiration; but to ſee a man have all the parts of a beaſt is never taken notice of; to tumble in the mire like a hog, and after amendment, with the dog to returne to his vomit again, is grown to a common cuſtome, though a
+<pb n="113" facs="tcp:169871:59"/>lewd one. Other ſinnes move ſhame, but hide it; this of drunkenneſs diſco<g ref="char:EOLhyphen"/>vers it to all the world, it not only makes imperfections, but ſhewes thoſe we have to others eyes: A man hath not then ſo much rule of himſelfe as to be aſhamed: I will al<g ref="char:EOLhyphen"/>wayes ſhun this vice, which will rob me of my ſelfe, and lay a beaſt in my roome, for he that gives him<g ref="char:EOLhyphen"/>ſelfe to wine, is not owne.</p>
+            </div>
+            <div n="89" type="meditation">
+               <head>MED. 89.</head>
+               <p>I Have read of a certain man, that came with a reſolution to kill a Tyrant, but the ſtroke intended for his death, opened him a dange<g ref="char:EOLhyphen"/>rous Impoſtume, whereon his Phy<g ref="char:EOLhyphen"/>ſitions durſt not lay their hands; How oft doth the inſcrutable provi<g ref="char:EOLhyphen"/>dence of God, from injurious and bad cauſes produce good effects?
+<pb n="114" facs="tcp:169871:60"/>Was it not a ſomewhat ſtrange cure, where nothing but danger of death can ſave ones life? that which one intends for a miſchiefe to me, may prove to procure my good, though not to be a benefit; for it is no be<g ref="char:EOLhyphen"/>nefit which I am inforced to receive, ſaith <hi>Seneca;</hi> neither is it a benefit, that maketh me iudebted to him I would not. If then thou wouldeſt doe a benefit for me, firſt, give me the freedome and power of my ſelfe: for,</p>
+               <q>
+                  <l>Thou good turnes mayſt doe, though thy intent</l>
+                  <l>Had in deſigne to worke ſome detriment.</l>
+               </q>
+            </div>
+            <div n="90" type="meditation">
+               <head>MED. 90.</head>
+               <p>AS God loves a cheerfull giver, ſo he hates an ingratefull, thank<g ref="char:EOLhyphen"/>leſſe receiver: with what high pray<g ref="char:EOLhyphen"/>ſes is the willing gift of the poore widdow remembred, and what a
+<pb n="115" facs="tcp:169871:60"/>terrible doome is laid upon the husbandmen, who could not other<g ref="char:EOLhyphen"/>waies requite the Lord of their Vine<g ref="char:EOLhyphen"/>yard, ſending for ſome of his own, then by beating his ſervants, and killing his ſonne: Oh inhumane bar<g ref="char:EOLhyphen"/>bariſme, that could not afford a good word for the meanes of their livelihood: but no marvel, for he cannot be thankfull, that is willing<g ref="char:EOLhyphen"/>ly forgetfull of what he hath re<g ref="char:EOLhyphen"/>ceived; but I will receive courteſies with a gladſome countenance, for he that receiveth a good turne with a joyfull thankfulneſſe, hath alrea<g ref="char:EOLhyphen"/>dy ſatisfied the firſt payment of the requitall; but he that carries it in memory, hath already requited it.</p>
+            </div>
+            <div n="91" type="meditation">
+               <head>MED. 91.</head>
+               <p>IUſtice and clemency are the two maine pillars, that uphold a wel-ru<g ref="char:EOLhyphen"/>led
+<pb n="116" facs="tcp:169871:61"/>Common-wealth; Juſtice to puniſh obſtinate offenders, and mer<g ref="char:EOLhyphen"/>cy to be extended to thoſe that re<g ref="char:EOLhyphen"/>pent; what a ſolitude and deſolati<g ref="char:EOLhyphen"/>on would there ſoone be, if all of<g ref="char:EOLhyphen"/>fenders were tryed by the ſtricteſt rule of Juſtice? Is there any accuſer without his fault? Clemency there<g ref="char:EOLhyphen"/>fore is the moſt aſſured ſafe-guard; for cruelty in governours, increaſ<g ref="char:EOLhyphen"/>eth the number of their enemies, by extinguiſhing them; It is better to have thy Subjects hearts tyed to thee by love, then their bodies, a ſervile feare; I will alwayes be juſt, but never ſeverely cruell, and I vvill be mercifull, yet not give a li<g ref="char:EOLhyphen"/>berty to ſinne: to ſave is the pro<g ref="char:EOLhyphen"/>perty of an excellent fortune; And I know not whether there be any man more difficult to give pardon, then he that hath often deſerved to beg the ſame.</p>
+            </div>
+            <div n="92" type="meditation">
+               <pb n="117" facs="tcp:169871:61"/>
+               <head>MED. 92.</head>
+               <p>VVEre I to wiſh a titular happi<g ref="char:EOLhyphen"/>neſſe, or did I deſire a reall good, it ſhould be this, that I might have a quiet minde, and a con<g ref="char:EOLhyphen"/>ſcience voide of feare, with whom, when thou conferreſt, it can ac<g ref="char:EOLhyphen"/>cuſe thee of no baſe acts; thou need<g ref="char:EOLhyphen"/>eſt no other inditement for ſinne, then what thine owne conſcience will preferre; The killing of a neſt of young Swallowes will produce an anſwer to convict thee of Parri<g ref="char:EOLhyphen"/>cide.</p>
+               <q>
+                  <l>Feare, ſuffering, ſinne, are fellowes; conſcience will</l>
+                  <l>Accuſe thee daily for fore-acted ill.</l>
+               </q>
+            </div>
+            <div n="93" type="meditation">
+               <head>MED. 93.</head>
+               <p>
+                  <hi>SOlanten miſeris ſocios habuiſſe dolor is.</hi> If it be a comfort in afflictions to
+<pb n="118" facs="tcp:169871:62"/>have a partner of our griefe, how much greater is it to thinke, that what hath happened to him, all that went before him have ſuffered, and all that ſhall come after muſt endure; for is there any man ſo proudly arrogant, that will think to have himſelf exempted out of the ranke of all others? can any man diſcharge ſome one houſe from that ruine, which ſhall deſtroy the whole world? therefore ſaith <hi>Seneca,</hi> hath Nature made that moſt common, which is moſt grievous, to the end that the equality thereof might in ſome ſort lenefie the cruelty of the fate. I will therefore in my ſorrow alway obſerve this meaſure, that it neither run into impiety or folly, and I will contain me in that habit which becomes a quiet; and not di<g ref="char:EOLhyphen"/>ſturbed minde, though my teares ſhall flow, yet at laſt ſhall they ſtay, and though my ſighes ſhall pro<g ref="char:EOLhyphen"/>ceede
+<pb n="119" facs="tcp:169871:62"/>from the bottome of my heart, yet ſhall they have an end.</p>
+            </div>
+            <div n="94" type="meditation">
+               <head>MED. 94.</head>
+               <p>THe ample revenews <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ince, if it come (as we ſay) into Huck<g ref="char:EOLhyphen"/>ſters hands, conſumes and goes a<g ref="char:EOLhyphen"/>way in a moment, when the hun<g ref="char:EOLhyphen"/>dredth part thereof, well managed and husbanded, would rather en<g ref="char:EOLhyphen"/>creaſe then prove ſcarſe. Wen I think of this, I cannot but blame thoſe who cry out of the ſhortneſs of their life, which is not ſhort indeed, but that we loſe ſo much of it, ſo that I may ſay with the Poet, <hi>A little part of our life it is we live:</hi> And ma<g ref="char:EOLhyphen"/>ny men die before they are ready to depart the world. Why then, vaine man, liveſt thou ſo, as if thou hadſt a warrant to live for ever: Lord, teach me to number my dayes, that I may
+<pb n="120" facs="tcp:169871:63"/>apply my heart unto wiſdom. Since all that is to come is uncertain, I will live out of hand, I will not forget the time paſt, neglect that is preſent, nor fear that which is to come, leſt when it is come, I finde that I have been way buſie in doing nothing.</p>
+            </div>
+            <div n="95" type="meditation">
+               <head>MED. 95.</head>
+               <p>
+                  <hi>GRatia ab officio quod mora tardat, abeſt,</hi> the goodneſs of the bene<g ref="char:EOLhyphen"/>fit is half wanting, when we delay the doing of it; for the expectation of things, how good ſoever they be, is both tedious and diſpleaſant: true liberality is quick &amp; expidite, and it is the property of him that doth wil<g ref="char:EOLhyphen"/>lingly, to do quickly; as it is ſaid, <hi>Bis dat, qui citò dat;</hi> he has, at it were, done a good turne twice, who does it in time; ſo he that willeth a thing too late, does as it were, not will it
+<pb n="121" facs="tcp:169871:63"/>at all; I will never give later then I ſhould do, and weary out both time and occaſion, before I aſſiſt and ſuccour the indigent, leſt my actions ſhould witneſs againſt me, that I ne<g ref="char:EOLhyphen"/>ver had a will to do him good.</p>
+            </div>
+            <div n="96" type="meditation">
+               <head>MEd. 96.</head>
+               <p>AN antient Philoſoſper ſeeing an ingratefull man proſper, taxed Nature of partiality, in that ſhe had laded a thiſtle with fruit, ingratitude being both loathſome in it ſelf, and hateful in all mens opinions; where a good turne is not only forgotten, but denyd: faulty are thoſe eyes that feare the light, but blinde certainly are they that ſee not at all: of all men, I cannot but moſt hate and wonder at an unthankfull perſon, ſince to re<g ref="char:EOLhyphen"/>quite is ſo eaſie a matter. Art thou a niggard, thou ſhalt not need to
+<pb n="122" facs="tcp:169871:64"/>drain thy purſe, thou mayſt requite without expence; or art thou ſloth<g ref="char:EOLhyphen"/>full, thou mayſt ſit with folded arms, and take thy repoſe, thou maiſt without labour ſatisfie for a good turn: for (<hi>Seneca</hi> ſaith) in that very moment, wherein thou art ob<g ref="char:EOLhyphen"/>lieged, if thou liſteſt, thou mayſt make even with any man whatſoe<g ref="char:EOLhyphen"/>ver, becauſe he who hath willing<g ref="char:EOLhyphen"/>ly received a benefit, hath reſtored the ſame.</p>
+            </div>
+            <div n="97" type="meditation">
+               <head>MED. 97.</head>
+               <p>
+                  <hi>HOdie Craeſus, cras Irus,</hi> though thou ſitteſt to day on a throne, thy Will ſtanding for Law, and do<g ref="char:EOLhyphen"/>minering with a proud tyranny over thy inferiors, thou mayſt to morrow lye with <hi>Job</hi> on a dunghill; ſee the inconſtancy of fickle fortune, making, as it were, a tennisball of
+<pb n="123" facs="tcp:169871:64"/>the world; who would be a ſervant to ſo wavering a Miſtreſs? who vvould rely on that which is con<g ref="char:EOLhyphen"/>ſtant to nothing but inconſtancy? I will therefore bare my affliction like my ſelf, as one ſubject to chance, but reſolved in the change of my fortune; though I may bewaile my fortune; though I may bewaile my fortune, and lament my fall, yet will I not diſmay my ſelf, ſince I know that all corporall damages, that betide mortall men, are either by means remedied, by patience ſuf<g ref="char:EOLhyphen"/>fered, by reaſon rectified, by time cured, or by death ended; there is a power above the capacity of men, and comfort may deſcend beyond the expectation of men.</p>
+            </div>
+            <div n="98" type="meditation">
+               <pb n="124" facs="tcp:169871:65"/>
+               <head>MED. 98.</head>
+               <p>WHen I ſee a ſealed Dove mount to ſuch an aſpiring height, as if it would ſeeme to reach at the very heaven it ſelf, on a ſudden fall down like a dead and ſenſeleſs carcaſs: It preſently brings to my minde the ſoaring ambition of a high minded perſon, whoſe minde being ſealed with popular applauſe, makes him, <hi>Icarus</hi>-like, with thoſe waxen wings, to dare, even at Maje<g ref="char:EOLhyphen"/>ſtie it ſelf, till at laſt, the Sun, either of envy or diſlike, diſſolve the con<g ref="char:EOLhyphen"/>joyning wax, &amp; he falls down head<g ref="char:EOLhyphen"/>long into the ſea, both of comtempt and deſpair, yet who is frightned with his miſery? how ſoone will an<g ref="char:EOLhyphen"/>other ſtep into his roome, and even ſtrive to out-vie his greatneſs, till the ſtorme of a frowne ſhiprack him? What clog heavy enough to keep
+<pb n="125" facs="tcp:169871:65"/>down ambitious thoughts? nothing can outballance ambitious deſire: though it is full of pleaſure in its beginning and riſe, yet is its end cruell, and downfall ſudden.</p>
+               <q>
+                  <l>While each thing ſtayes within his proper ſphear,</l>
+                  <l>It neither danger breeds to 't ſelf, nor fear.</l>
+               </q>
+            </div>
+            <div n="99" type="meditation">
+               <head>MED. 99.</head>
+               <p>PRovidence prevents-misfortunes, and gives life to future actions; but raſhneſs is the mother of ill-luck, and not only blaſts promiſing en<g ref="char:EOLhyphen"/>terpriſes, but nips them in the bud. Is it not a piece of the greateſt folly to requite an imagined wrong with an effectuall miſchiefe? I will look at my preſent being, not a pro<g ref="char:EOLhyphen"/>miſed, for promiſes of advancement are no aſſurances of enrichment; and he hath a ſhort underſtanding, that will loſe certain favors for uncertain
+<pb n="126" facs="tcp:169871:66"/>riches: I will not be either careleſly, or overtimerouſly ſuſpitious what may ſiniſterly or ſuddenly ſucceed, but I will be heedfull of the hazard, leſt any overſight may croſs my deſigned endeavours, and ſo make me both hapleſs and helpleſs.</p>
+            </div>
+            <div n="100" type="meditation">
+               <head>MED. 100.</head>
+               <p>
+                  <hi>DImidium facti, qui bene caepit ha<g ref="char:EOLhyphen"/>bet:</hi> though it were ſaid of old, He has done the better half of his work that hath begun well, yet we know; that <hi>non progredi eſt regredi,</hi> he that goes not forword, goes back<g ref="char:EOLhyphen"/>ward; it were as good he had never ſet out, who ſits down in the midſt of his journey; <hi>Iacobs</hi> ladder hath many ſteps; its not enough to begin to be good, but to proceed in goodneſs. It is as true as common, that <hi>exitus
+<pb n="127" facs="tcp:169871:66"/>acta probat,</hi> the glory of a thing lies in its ending: It was a law in <hi>Rome,</hi> that when a ſouldier was fifty years old, he ſhould no more beare arms; A Senator having attained to threeſcore years, was no more bound to attend the Senate: what ſhould be the reaſon, but that after the tur<g ref="char:EOLhyphen"/>moyles of their tedious life, being freed from the cares of the world, they might think of their end? I like the Law well, but yet I will not fol<g ref="char:EOLhyphen"/>low it wholly, for I will not put off the thought of my death till old age, but will alwayes prepare for it: ſince ever to meditate on my end, is the beſt end of my Meditations.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
